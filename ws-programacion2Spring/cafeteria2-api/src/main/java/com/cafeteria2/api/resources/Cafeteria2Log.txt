@@ -1,0 +1,2000 @@
+Mar 21, 2022 4:18:46 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-4-18
+Mar 21, 2022 4:34:47 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:Mafe Log,-03-21-4-34
+Mar 21, 2022 4:34:47 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-4-34
+Mar 21, 2022 4:37:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-4-37
+Mar 21, 2022 4:37:14 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 59 no existe en la base de datos},[]>,-03-21-4-37
+Mar 21, 2022 4:46:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-4-46
+Mar 21, 2022 5:01:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-1
+Mar 21, 2022 5:03:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-3
+Mar 21, 2022 5:04:11 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-4
+Mar 21, 2022 5:04:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-4
+Mar 21, 2022 5:04:30 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-4
+Mar 21, 2022 5:07:49 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-7
+Mar 21, 2022 5:08:18 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-8
+Mar 21, 2022 5:08:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-8
+Mar 21, 2022 5:09:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-9
+Mar 21, 2022 5:11:33 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-11
+Mar 21, 2022 5:13:52 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-13
+Mar 21, 2022 5:13:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-13
+Mar 21, 2022 5:14:04 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-14
+Mar 21, 2022 5:14:39 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-14
+Mar 21, 2022 5:14:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-14
+Mar 21, 2022 5:14:46 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-14
+Mar 21, 2022 5:14:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-14
+Mar 21, 2022 5:15:08 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-15
+Mar 21, 2022 5:15:20 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:28 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-15
+Mar 21, 2022 5:15:28 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:28 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prubea numero repetido,-03-21-5-15
+Mar 21, 2022 5:15:51 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-15
+Mar 21, 2022 5:15:59 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-15
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-16
+Mar 21, 2022 5:16:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:prueba,-03-21-5-16
+Mar 21, 2022 5:19:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-19
+Mar 21, 2022 5:19:36 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-19
+Mar 21, 2022 5:19:43 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-19
+Mar 21, 2022 5:23:12 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-23
+Mar 21, 2022 5:25:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-25
+Mar 21, 2022 5:25:49 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-25
+Mar 21, 2022 5:26:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-26
+Mar 21, 2022 5:26:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:Cafe,-03-21-5-26
+Mar 21, 2022 5:26:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-26
+Mar 21, 2022 5:26:48 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-26
+Mar 21, 2022 5:26:55 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-26
+Mar 21, 2022 5:27:01 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-27
+Mar 21, 2022 5:27:02 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-27
+Mar 21, 2022 5:27:02 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:Antonio B,-03-21-5-27
+Mar 21, 2022 5:27:03 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-27
+Mar 21, 2022 5:27:13 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-27
+Mar 21, 2022 5:27:20 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-27
+Mar 21, 2022 5:27:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-27
+Mar 21, 2022 5:27:33 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-27
+Mar 21, 2022 5:27:37 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-27
+Mar 21, 2022 5:27:37 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:0,-03-21-5-27
+Mar 21, 2022 5:27:37 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-27
+Mar 21, 2022 5:27:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-27
+Mar 21, 2022 5:28:13 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-28
+Mar 21, 2022 5:28:20 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-28
+Mar 21, 2022 5:28:20 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:34,-03-21-5-28
+Mar 21, 2022 5:28:20 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-28
+Mar 21, 2022 5:28:50 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-28
+Mar 21, 2022 5:29:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-29
+Mar 21, 2022 5:29:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:iiui,-03-21-5-29
+Mar 21, 2022 5:29:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-29
+Mar 21, 2022 5:29:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-29
+Mar 21, 2022 5:29:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-29
+Mar 21, 2022 5:29:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-29
+Mar 21, 2022 5:29:40 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-29
+Mar 21, 2022 5:29:41 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-29
+Mar 21, 2022 5:33:43 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-33
+Mar 21, 2022 5:33:43 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-33
+Mar 21, 2022 5:33:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-33
+Mar 21, 2022 5:33:47 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-33
+Mar 21, 2022 5:33:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-33
+Mar 21, 2022 5:45:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-45
+Mar 21, 2022 5:46:00 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-46
+Mar 21, 2022 5:46:01 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-46
+Mar 21, 2022 5:46:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-46
+Mar 21, 2022 5:46:55 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-46
+Mar 21, 2022 5:46:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-46
+Mar 21, 2022 5:46:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-46
+Mar 21, 2022 5:47:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-47
+Mar 21, 2022 5:47:43 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-47
+Mar 21, 2022 5:48:34 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-48
+Mar 21, 2022 5:48:39 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:0,-03-21-5-48
+Mar 21, 2022 5:48:39 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-48
+Mar 21, 2022 5:49:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 120 no existe en la base de datos},[]>,-03-21-5-49
+Mar 21, 2022 5:49:59 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 119 no existe en la base de datos},[]>,-03-21-5-49
+Mar 21, 2022 5:50:01 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 117 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:04 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 116 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 115 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 60 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:11 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 58 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:14 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 57 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 56 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:18 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 55 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:20 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 54 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 53 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 52 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 50 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:31 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 49 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:34 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 45 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:36 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 48 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:39 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 47 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:42 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 118 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:50:45 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 51 no existe en la base de datos},[]>,-03-21-5-50
+Mar 21, 2022 5:51:01 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-51
+Mar 21, 2022 5:51:03 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-51
+Mar 21, 2022 5:51:05 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-51
+Mar 21, 2022 5:54:43 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-54
+Mar 21, 2022 5:55:15 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-55
+Mar 21, 2022 5:55:36 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-5-55
+Mar 21, 2022 6:06:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-6-6
+Mar 21, 2022 6:07:55 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-6-7
+Mar 21, 2022 6:07:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-6-7
+Mar 21, 2022 6:08:00 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:d,-03-21-6-8
+Mar 21, 2022 6:08:00 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-6-8
+Mar 21, 2022 6:08:14 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-6-8
+Mar 21, 2022 6:08:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 121 no existe en la base de datos},[]>,-03-21-6-8
+Mar 21, 2022 6:08:20 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-6-8
+Mar 21, 2022 6:08:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-6-8
+Mar 21, 2022 6:08:31 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-6-8
+Mar 21, 2022 6:08:33 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente creado:we,-03-21-6-8
+Mar 21, 2022 6:08:33 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-6-8
+Mar 21, 2022 6:09:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-6-9
+Mar 21, 2022 6:10:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-6-10
+Mar 21, 2022 6:10:18 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-6-10
+Mar 21, 2022 7:11:50 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-11
+Mar 21, 2022 7:12:54 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:55 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:55 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:12:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-12
+Mar 21, 2022 7:13:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-13
+Mar 21, 2022 7:13:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-13
+Mar 21, 2022 7:13:39 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-13
+Mar 21, 2022 7:13:39 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-13
+Mar 21, 2022 7:13:39 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-13
+Mar 21, 2022 7:13:39 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-13
+Mar 21, 2022 7:14:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-21-7-14
+Mar 22, 2022 12:17:19 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-0-17
+Mar 22, 2022 12:17:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-0-17
+Mar 22, 2022 12:24:54 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-0-24
+Mar 22, 2022 12:25:14 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 122 no existe en la base de datos},[]>,-03-22-0-25
+Mar 22, 2022 12:25:18 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-0-25
+Mar 22, 2022 12:25:21 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-0-25
+Mar 22, 2022 12:25:23 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-0-25
+Mar 22, 2022 12:25:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-0-25
+Mar 22, 2022 12:25:30 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-0-25
+Mar 22, 2022 12:27:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-0-27
+Mar 22, 2022 12:30:30 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-0-30
+Mar 22, 2022 12:45:34 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-0-45
+Mar 22, 2022 12:46:43 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-0-46
+Mar 22, 2022 12:46:47 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-0-46
+Mar 22, 2022 12:47:05 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-0-47
+Mar 22, 2022 12:50:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-0-50
+Mar 22, 2022 12:51:40 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura eliminado:<404 NOT_FOUND Not Found,{mensaje=El factura con ID: 1 no existe en la base de datos},[]>,-03-22-0-51
+Mar 22, 2022 12:53:03 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-0-53
+Mar 22, 2022 12:53:14 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-0-53
+Mar 22, 2022 12:53:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-0-53
+Mar 22, 2022 12:53:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-0-53
+Mar 22, 2022 12:53:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-0-53
+Mar 22, 2022 12:53:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-0-53
+Mar 22, 2022 12:53:18 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-0-53
+Mar 22, 2022 1:03:49 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-1-3
+Mar 22, 2022 1:21:03 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-1-21
+Mar 22, 2022 6:22:10 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-22
+Mar 22, 2022 6:22:21 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-22
+Mar 22, 2022 6:22:50 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-22
+Mar 22, 2022 6:23:10 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-23
+Mar 22, 2022 6:26:59 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-26
+Mar 22, 2022 6:27:05 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-27
+Mar 22, 2022 6:27:12 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-27
+Mar 22, 2022 6:31:50 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-31
+Mar 22, 2022 6:33:54 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-33
+Mar 22, 2022 6:34:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-34
+Mar 22, 2022 6:34:35 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-34
+Mar 22, 2022 6:35:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-35
+Mar 22, 2022 6:35:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-35
+Mar 22, 2022 6:35:19 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-35
+Mar 22, 2022 6:35:43 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-35
+Mar 22, 2022 6:36:06 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-36
+Mar 22, 2022 6:36:21 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-36
+Mar 22, 2022 6:36:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-36
+Mar 22, 2022 6:36:54 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-36
+Mar 22, 2022 6:36:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-36
+Mar 22, 2022 6:36:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura creado:,-03-22-6-36
+Mar 22, 2022 6:36:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-36
+Mar 22, 2022 6:37:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura eliminado:<404 NOT_FOUND Not Found,{mensaje=El factura con ID: 8 no existe en la base de datos},[]>,-03-22-6-37
+Mar 22, 2022 6:37:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-6-37
+Mar 22, 2022 6:37:39 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-37
+Mar 22, 2022 6:37:41 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-6-37
+Mar 22, 2022 6:37:42 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-37
+Mar 22, 2022 6:41:00 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-41
+Mar 22, 2022 6:41:01 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-41
+Mar 22, 2022 6:43:23 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-43
+Mar 22, 2022 6:49:28 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-49
+Mar 22, 2022 6:49:51 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-49
+Mar 22, 2022 6:50:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-50
+Mar 22, 2022 6:50:18 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-50
+Mar 22, 2022 6:50:31 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-50
+Mar 22, 2022 6:50:39 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-50
+Mar 22, 2022 6:50:39 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-50
+Mar 22, 2022 6:50:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-50
+Mar 22, 2022 6:50:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-50
+Mar 22, 2022 6:51:04 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-51
+Mar 22, 2022 6:51:30 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-51
+Mar 22, 2022 6:51:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-51
+Mar 22, 2022 6:52:08 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-6-52
+Mar 22, 2022 6:52:08 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-6-52
+Mar 22, 2022 6:54:34 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-6-54
+Mar 22, 2022 6:54:35 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-6-54
+Mar 22, 2022 6:54:39 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-6-54
+Mar 22, 2022 7:17:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-7-17
+Mar 22, 2022 7:17:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-7-17
+Mar 22, 2022 7:17:59 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-7-17
+Mar 22, 2022 7:17:59 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-7-17
+Mar 22, 2022 7:23:55 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-7-23
+Mar 22, 2022 7:23:55 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-7-23
+Mar 22, 2022 8:02:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-8-2
+Mar 22, 2022 8:02:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-8-2
+Mar 22, 2022 8:03:20 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-8-3
+Mar 22, 2022 8:03:20 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-8-3
+Mar 22, 2022 8:04:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-8-4
+Mar 22, 2022 8:04:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-8-4
+Mar 22, 2022 8:36:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-8-36
+Mar 22, 2022 8:36:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-8-36
+Mar 22, 2022 8:36:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-8-36
+Mar 22, 2022 8:36:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-8-36
+Mar 22, 2022 8:36:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura creado:,-03-22-8-36
+Mar 22, 2022 8:36:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-8-36
+Mar 22, 2022 8:37:53 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-8-37
+Mar 22, 2022 8:39:59 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-8-39
+Mar 22, 2022 8:40:15 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-8-40
+Mar 22, 2022 8:40:30 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-8-40
+Mar 22, 2022 8:40:30 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-8-40
+Mar 22, 2022 8:40:48 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura creado:F002,-03-22-8-40
+Mar 22, 2022 8:40:48 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-8-40
+Mar 22, 2022 9:27:42 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-27
+Mar 22, 2022 9:27:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-27
+Mar 22, 2022 9:29:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-29
+Mar 22, 2022 9:29:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-29
+Mar 22, 2022 9:30:46 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-30
+Mar 22, 2022 9:31:28 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-31
+Mar 22, 2022 9:31:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-31
+Mar 22, 2022 9:36:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-36
+Mar 22, 2022 9:36:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-36
+Mar 22, 2022 9:37:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-37
+Mar 22, 2022 9:38:23 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-38
+Mar 22, 2022 9:38:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-38
+Mar 22, 2022 9:38:31 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-38
+Mar 22, 2022 9:39:34 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-39
+Mar 22, 2022 9:39:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-39
+Mar 22, 2022 9:39:41 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-39
+Mar 22, 2022 9:40:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-40
+Mar 22, 2022 9:40:23 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-40
+Mar 22, 2022 9:43:21 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-43
+Mar 22, 2022 9:45:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-45
+Mar 22, 2022 9:46:01 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:04 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:04 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:05 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:05 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:05 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:06 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:06 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:06 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:08 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:10 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:10 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:11 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:11 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:12 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:12 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 9:46:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-22-9-46
+Mar 22, 2022 10:10:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-22-10-10
+Mar 23, 2022 8:31:16 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-8-31
+Mar 23, 2022 8:31:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-31
+Mar 23, 2022 8:34:22 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-8-34
+Mar 23, 2022 8:50:58 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-50
+Mar 23, 2022 8:56:34 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-56
+Mar 23, 2022 10:01:43 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-1
+Mar 23, 2022 10:23:24 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-23
+Mar 23, 2022 10:23:25 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-10-23
+Mar 23, 2022 10:23:27 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-23
+Mar 23, 2022 10:23:57 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-23
+Mar 23, 2022 10:23:58 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-23
+Mar 23, 2022 10:24:50 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-24
+Mar 23, 2022 10:24:50 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-24
+Mar 23, 2022 10:24:51 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-24
+Mar 23, 2022 10:24:51 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-24
+Mar 23, 2022 10:26:18 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-26
+Mar 23, 2022 10:26:18 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-26
+Mar 23, 2022 10:26:18 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-26
+Mar 23, 2022 10:26:36 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-26
+Mar 23, 2022 10:26:36 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-26
+Mar 23, 2022 10:26:36 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-26
+Mar 23, 2022 10:31:15 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-31
+Mar 23, 2022 10:31:15 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-31
+Mar 23, 2022 10:31:15 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-31
+Mar 23, 2022 10:31:27 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-31
+Mar 23, 2022 10:31:31 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-31
+Mar 23, 2022 10:33:48 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-33
+Mar 23, 2022 10:33:48 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-33
+Mar 23, 2022 10:33:49 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-33
+Mar 23, 2022 10:33:49 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-33
+Mar 23, 2022 10:33:53 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-33
+Mar 23, 2022 10:33:53 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-33
+Mar 23, 2022 10:34:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-34
+Mar 23, 2022 10:34:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-34
+Mar 23, 2022 10:34:30 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-34
+Mar 23, 2022 10:34:30 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-34
+Mar 23, 2022 10:36:12 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-36
+Mar 23, 2022 10:36:12 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-36
+Mar 23, 2022 10:50:46 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-50
+Mar 23, 2022 10:50:46 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-50
+Mar 23, 2022 10:50:46 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-50
+Mar 23, 2022 10:51:12 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-51
+Mar 23, 2022 10:51:12 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-51
+Mar 23, 2022 10:51:12 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-51
+Mar 23, 2022 10:51:28 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-51
+Mar 23, 2022 10:51:28 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-51
+Mar 23, 2022 10:51:28 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-51
+Mar 23, 2022 10:51:31 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-51
+Mar 23, 2022 10:51:31 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-51
+Mar 23, 2022 10:51:58 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-51
+Mar 23, 2022 10:51:58 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-51
+Mar 23, 2022 10:51:58 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-51
+Mar 23, 2022 10:52:05 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-52
+Mar 23, 2022 10:52:05 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-52
+Mar 23, 2022 10:52:05 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-52
+Mar 23, 2022 10:52:10 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle creado:0,-03-23-10-52
+Mar 23, 2022 10:52:10 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-52
+Mar 23, 2022 10:53:16 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-53
+Mar 23, 2022 10:53:16 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-53
+Mar 23, 2022 10:56:56 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-56
+Mar 23, 2022 10:56:56 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-56
+Mar 23, 2022 10:56:59 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-56
+Mar 23, 2022 10:57:02 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle creado:0,-03-23-10-57
+Mar 23, 2022 10:57:19 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-57
+Mar 23, 2022 10:57:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-57
+Mar 23, 2022 10:57:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-57
+Mar 23, 2022 10:57:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-10-57
+Mar 23, 2022 10:57:25 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle creado:0,-03-23-10-57
+Mar 23, 2022 10:57:26 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-10-57
+Mar 23, 2022 11:02:09 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-2
+Mar 23, 2022 11:02:11 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-2
+Mar 23, 2022 11:02:11 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-2
+Mar 23, 2022 11:02:31 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura creado:F004,-03-23-11-2
+Mar 23, 2022 11:02:32 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-2
+Mar 23, 2022 11:02:44 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-2
+Mar 23, 2022 11:02:45 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-2
+Mar 23, 2022 11:02:45 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-2
+Mar 23, 2022 11:02:51 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle creado:0,-03-23-11-2
+Mar 23, 2022 11:02:51 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-2
+Mar 23, 2022 11:02:56 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-2
+Mar 23, 2022 11:03:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-3
+Mar 23, 2022 11:03:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-3
+Mar 23, 2022 11:03:24 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle creado:0,-03-23-11-3
+Mar 23, 2022 11:03:25 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-3
+Mar 23, 2022 11:03:28 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-3
+Mar 23, 2022 11:03:48 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-3
+Mar 23, 2022 11:22:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-22
+Mar 23, 2022 11:22:25 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-22
+Mar 23, 2022 11:22:26 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-22
+Mar 23, 2022 11:22:26 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-22
+Mar 23, 2022 11:22:31 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle creado:0,-03-23-11-22
+Mar 23, 2022 11:22:31 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-22
+Mar 23, 2022 11:22:39 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-22
+Mar 23, 2022 11:22:47 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F004,-03-23-11-22
+Mar 23, 2022 11:24:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-24
+Mar 23, 2022 11:24:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-24
+Mar 23, 2022 11:24:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-24
+Mar 23, 2022 11:26:17 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-26
+Mar 23, 2022 11:26:18 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-26
+Mar 23, 2022 11:26:19 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-26
+Mar 23, 2022 11:26:19 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-26
+Mar 23, 2022 11:26:19 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-26
+Mar 23, 2022 11:26:19 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-26
+Mar 23, 2022 11:26:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-26
+Mar 23, 2022 11:26:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-26
+Mar 23, 2022 11:26:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-26
+Mar 23, 2022 11:26:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-26
+Mar 23, 2022 11:26:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-26
+Mar 23, 2022 11:27:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-27
+Mar 23, 2022 11:27:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-27
+Mar 23, 2022 11:29:32 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-29
+Mar 23, 2022 11:29:39 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-29
+Mar 23, 2022 11:29:41 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-29
+Mar 23, 2022 11:29:41 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-29
+Mar 23, 2022 11:29:52 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-29
+Mar 23, 2022 11:30:03 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-11-30
+Mar 23, 2022 11:30:05 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-30
+Mar 23, 2022 11:35:10 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-35
+Mar 23, 2022 11:35:10 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-35
+Mar 23, 2022 11:35:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-35
+Mar 23, 2022 11:35:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-35
+Mar 23, 2022 11:35:33 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-35
+Mar 23, 2022 11:35:33 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-35
+Mar 23, 2022 11:37:42 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-37
+Mar 23, 2022 11:37:42 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-37
+Mar 23, 2022 11:38:30 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-38
+Mar 23, 2022 11:38:51 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-38
+Mar 23, 2022 11:39:19 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-39
+Mar 23, 2022 11:40:13 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-40
+Mar 23, 2022 11:41:06 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-41
+Mar 23, 2022 11:41:35 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-41
+Mar 23, 2022 11:45:38 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-45
+Mar 23, 2022 11:45:53 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-45
+Mar 23, 2022 11:46:01 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-46
+Mar 23, 2022 11:46:09 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-46
+Mar 23, 2022 11:47:26 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-47
+Mar 23, 2022 11:48:04 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-48
+Mar 23, 2022 11:48:46 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-48
+Mar 23, 2022 11:50:37 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-50
+Mar 23, 2022 11:52:10 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-52
+Mar 23, 2022 11:53:13 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-53
+Mar 23, 2022 11:53:19 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-53
+Mar 23, 2022 11:53:24 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-53
+Mar 23, 2022 11:55:57 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-55
+Mar 23, 2022 11:56:01 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-56
+Mar 23, 2022 11:56:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-56
+Mar 23, 2022 11:56:29 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-11-56
+Mar 23, 2022 11:59:56 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-59
+Mar 23, 2022 11:59:57 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-11-59
+Mar 23, 2022 12:12:11 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-0-12
+Mar 23, 2022 12:12:14 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-0-12
+Mar 23, 2022 12:12:14 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-0-12
+Mar 23, 2022 5:16:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-5-16
+Mar 23, 2022 5:16:18 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-5-16
+Mar 23, 2022 5:16:20 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-5-16
+Mar 23, 2022 5:17:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-5-17
+Mar 23, 2022 5:17:47 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-5-17
+Mar 23, 2022 5:17:47 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-5-17
+Mar 23, 2022 5:18:13 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-5-18
+Mar 23, 2022 5:18:13 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-5-18
+Mar 23, 2022 5:18:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-5-18
+Mar 23, 2022 5:18:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-5-18
+Mar 23, 2022 5:18:40 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-5-18
+Mar 23, 2022 5:18:40 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-5-18
+Mar 23, 2022 5:18:48 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-5-18
+Mar 23, 2022 5:18:48 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-5-18
+Mar 23, 2022 6:16:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-16
+Mar 23, 2022 6:19:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-19
+Mar 23, 2022 6:25:13 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-25
+Mar 23, 2022 6:25:13 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-25
+Mar 23, 2022 6:25:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-25
+Mar 23, 2022 6:25:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-25
+Mar 23, 2022 6:25:36 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-25
+Mar 23, 2022 6:25:36 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-25
+Mar 23, 2022 6:25:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-25
+Mar 23, 2022 6:25:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-25
+Mar 23, 2022 6:25:46 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-25
+Mar 23, 2022 6:26:34 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-26
+Mar 23, 2022 6:26:34 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-26
+Mar 23, 2022 6:26:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-26
+Mar 23, 2022 6:26:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-26
+Mar 23, 2022 6:27:35 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-27
+Mar 23, 2022 6:27:35 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-27
+Mar 23, 2022 6:27:40 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-27
+Mar 23, 2022 6:27:41 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-27
+Mar 23, 2022 6:28:45 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-28
+Mar 23, 2022 6:28:45 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-28
+Mar 23, 2022 6:28:54 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-28
+Mar 23, 2022 6:28:54 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-28
+Mar 23, 2022 6:29:04 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura eliminado:<404 NOT_FOUND Not Found,{mensaje=El factura con ID: 9 no existe en la base de datos},[]>,-03-23-6-29
+Mar 23, 2022 6:29:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-29
+Mar 23, 2022 6:29:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-29
+Mar 23, 2022 6:29:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-29
+Mar 23, 2022 6:30:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-30
+Mar 23, 2022 6:30:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-30
+Mar 23, 2022 6:35:21 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-35
+Mar 23, 2022 6:35:21 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-35
+Mar 23, 2022 6:36:21 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-36
+Mar 23, 2022 6:36:21 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-36
+Mar 23, 2022 6:36:41 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-36
+Mar 23, 2022 6:36:41 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-36
+Mar 23, 2022 6:36:51 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-36
+Mar 23, 2022 6:36:51 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-36
+Mar 23, 2022 6:38:01 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-38
+Mar 23, 2022 6:38:01 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-38
+Mar 23, 2022 6:38:48 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-38
+Mar 23, 2022 6:38:48 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-38
+Mar 23, 2022 6:38:59 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-38
+Mar 23, 2022 6:38:59 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-38
+Mar 23, 2022 6:39:12 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-39
+Mar 23, 2022 6:39:19 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-39
+Mar 23, 2022 6:39:21 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-39
+Mar 23, 2022 6:39:21 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-39
+Mar 23, 2022 6:39:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle creado:0,-03-23-6-39
+Mar 23, 2022 6:39:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-39
+Mar 23, 2022 6:39:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-39
+Mar 23, 2022 6:41:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-41
+Mar 23, 2022 6:41:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-41
+Mar 23, 2022 6:41:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-41
+Mar 23, 2022 6:42:36 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-42
+Mar 23, 2022 6:42:54 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-42
+Mar 23, 2022 6:43:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-43
+Mar 23, 2022 6:43:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-43
+Mar 23, 2022 6:43:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-43
+Mar 23, 2022 6:43:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-43
+Mar 23, 2022 6:43:54 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-43
+Mar 23, 2022 6:43:54 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-43
+Mar 23, 2022 6:43:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-43
+Mar 23, 2022 6:43:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-43
+Mar 23, 2022 6:44:03 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-44
+Mar 23, 2022 6:44:03 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-44
+Mar 23, 2022 6:46:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-46
+Mar 23, 2022 6:50:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-50
+Mar 23, 2022 6:50:41 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-50
+Mar 23, 2022 6:50:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-6-50
+Mar 23, 2022 6:50:59 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-50
+Mar 23, 2022 6:51:00 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-51
+Mar 23, 2022 6:51:00 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-51
+Mar 23, 2022 6:51:01 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-51
+Mar 23, 2022 6:51:04 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-51
+Mar 23, 2022 6:56:08 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-56
+Mar 23, 2022 6:56:08 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-23-6-56
+Mar 23, 2022 6:56:11 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle creado:0,-03-23-6-56
+Mar 23, 2022 6:56:11 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-6-56
+Mar 23, 2022 7:02:04 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-23-7-2
+Mar 23, 2022 7:03:10 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-7-3
+Mar 23, 2022 8:29:11 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-29
+Mar 23, 2022 8:29:18 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-29
+Mar 23, 2022 8:29:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-29
+Mar 23, 2022 8:29:35 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-29
+Mar 23, 2022 8:30:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-30
+Mar 23, 2022 8:30:35 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-30
+Mar 23, 2022 8:30:40 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-30
+Mar 23, 2022 8:30:47 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-30
+Mar 23, 2022 8:30:50 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-30
+Mar 23, 2022 8:30:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-30
+Mar 23, 2022 8:31:00 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-31
+Mar 23, 2022 8:31:04 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-31
+Mar 23, 2022 8:31:13 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-31
+Mar 23, 2022 8:31:49 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-31
+Mar 23, 2022 8:33:04 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-33
+Mar 23, 2022 8:33:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-33
+Mar 23, 2022 8:34:13 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-34
+Mar 23, 2022 8:34:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-34
+Mar 23, 2022 8:35:04 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-35
+Mar 23, 2022 8:35:13 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-35
+Mar 23, 2022 8:43:19 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-43
+Mar 23, 2022 8:43:28 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-43
+Mar 23, 2022 8:43:34 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-43
+Mar 23, 2022 8:43:50 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-43
+Mar 23, 2022 8:44:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-44
+Mar 23, 2022 8:44:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-44
+Mar 23, 2022 8:44:33 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-44
+Mar 23, 2022 8:45:10 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-45
+Mar 23, 2022 8:45:52 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-45
+Mar 23, 2022 8:46:23 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-46
+Mar 23, 2022 8:46:47 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-46
+Mar 23, 2022 8:47:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-47
+Mar 23, 2022 8:47:45 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-47
+Mar 23, 2022 8:47:51 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-47
+Mar 23, 2022 8:48:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-48
+Mar 23, 2022 8:48:23 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-48
+Mar 23, 2022 8:48:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-48
+Mar 23, 2022 8:48:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-48
+Mar 23, 2022 8:48:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-23-8-48
+Mar 24, 2022 7:34:35 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-34
+Mar 24, 2022 7:34:39 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-7-34
+Mar 24, 2022 7:34:40 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-34
+Mar 24, 2022 7:35:12 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-35
+Mar 24, 2022 7:36:55 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-36
+Mar 24, 2022 7:37:07 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-37
+Mar 24, 2022 7:41:59 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-41
+Mar 24, 2022 7:47:27 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-47
+Mar 24, 2022 7:47:31 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-47
+Mar 24, 2022 7:48:01 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-48
+Mar 24, 2022 7:48:08 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-48
+Mar 24, 2022 7:48:10 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-48
+Mar 24, 2022 7:48:10 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-7-48
+Mar 24, 2022 7:48:10 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-24-7-48
+Mar 24, 2022 7:48:17 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-48
+Mar 24, 2022 7:48:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-48
+Mar 24, 2022 7:48:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-7-48
+Mar 24, 2022 7:48:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-24-7-48
+Mar 24, 2022 7:48:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-48
+Mar 24, 2022 7:48:26 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-48
+Mar 24, 2022 7:48:26 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-24-7-48
+Mar 24, 2022 7:49:27 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-7-49
+Mar 24, 2022 7:49:27 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-49
+Mar 24, 2022 7:49:27 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-24-7-49
+Mar 24, 2022 7:49:30 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-49
+Mar 24, 2022 7:49:32 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-7-49
+Mar 24, 2022 7:49:32 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-49
+Mar 24, 2022 7:49:44 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura moodificada:F002,-03-24-7-49
+Mar 24, 2022 7:50:39 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura moodificada:F002,-03-24-7-50
+Mar 24, 2022 7:51:07 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-51
+Mar 24, 2022 7:53:44 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-7-53
+Mar 24, 2022 7:53:44 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-53
+Mar 24, 2022 7:53:44 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-24-7-53
+Mar 24, 2022 7:53:45 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-53
+Mar 24, 2022 7:53:46 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-7-53
+Mar 24, 2022 7:53:46 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-24-7-53
+Mar 24, 2022 7:53:50 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura moodificada:F002,-03-24-7-53
+Mar 24, 2022 7:53:56 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-53
+Mar 24, 2022 7:53:57 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-7-53
+Mar 24, 2022 7:53:57 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-53
+Mar 24, 2022 7:53:57 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-24-7-53
+Mar 24, 2022 7:57:12 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-7-57
+Mar 24, 2022 7:57:22 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-7-57
+Mar 24, 2022 7:57:22 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Cliente consultado:Santi Marin,-03-24-7-57
+Mar 24, 2022 7:57:38 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente moodificado:Santiago Jaramillo,-03-24-7-57
+Mar 24, 2022 7:57:38 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-7-57
+Mar 24, 2022 7:57:43 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Cliente eliminado:<404 NOT_FOUND Not Found,{mensaje=El cliente con ID: 5 no existe en la base de datos},[]>,-03-24-7-57
+Mar 24, 2022 7:59:11 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-7-59
+Mar 24, 2022 7:59:12 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-59
+Mar 24, 2022 7:59:15 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-7-59
+Mar 24, 2022 7:59:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-59
+Mar 24, 2022 7:59:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Detalle consultado:1,-03-24-7-59
+Mar 24, 2022 7:59:22 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-7-59
+Mar 24, 2022 7:59:24 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-7-59
+Mar 24, 2022 7:59:24 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-7-59
+Mar 24, 2022 7:59:34 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-7-59
+Mar 24, 2022 7:59:53 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-7-59
+Mar 24, 2022 8:00:03 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-0
+Mar 24, 2022 8:00:14 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-0
+Mar 24, 2022 8:00:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-0
+Mar 24, 2022 8:00:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-0
+Mar 24, 2022 8:00:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Detalle consultado:1,-03-24-8-0
+Mar 24, 2022 8:00:30 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-0
+Mar 24, 2022 8:00:32 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-0
+Mar 24, 2022 8:00:51 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-0
+Mar 24, 2022 8:00:54 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-0
+Mar 24, 2022 8:00:54 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-0
+Mar 24, 2022 8:00:59 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-0
+Mar 24, 2022 8:02:11 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-2
+Mar 24, 2022 8:03:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-3
+Mar 24, 2022 8:03:47 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-3
+Mar 24, 2022 8:03:51 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-3
+Mar 24, 2022 8:03:51 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Detalle consultado:1,-03-24-8-3
+Mar 24, 2022 8:03:56 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-3
+Mar 24, 2022 8:03:56 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-3
+Mar 24, 2022 8:04:00 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-4
+Mar 24, 2022 8:04:29 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-4
+Mar 24, 2022 8:04:31 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-4
+Mar 24, 2022 8:04:32 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-4
+Mar 24, 2022 8:04:32 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Detalle consultado:4,-03-24-8-4
+Mar 24, 2022 8:05:11 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-5
+Mar 24, 2022 8:05:12 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-5
+Mar 24, 2022 8:05:14 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-5
+Mar 24, 2022 8:05:20 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-5
+Mar 24, 2022 8:05:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-5
+Mar 24, 2022 8:05:48 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-5
+Mar 24, 2022 8:05:49 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-5
+Mar 24, 2022 8:05:51 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-5
+Mar 24, 2022 8:05:51 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-5
+Mar 24, 2022 8:06:58 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-6
+Mar 24, 2022 8:07:00 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-7
+Mar 24, 2022 8:07:27 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-8-7
+Mar 24, 2022 8:07:27 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-7
+Mar 24, 2022 8:07:27 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-24-8-7
+Mar 24, 2022 8:07:33 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura moodificada:F002,-03-24-8-7
+Mar 24, 2022 8:10:12 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-10
+Mar 24, 2022 8:10:12 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-8-10
+Mar 24, 2022 8:10:12 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-24-8-10
+Mar 24, 2022 8:10:17 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura moodificada:F002,-03-24-8-10
+Mar 24, 2022 8:11:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-8-11
+Mar 24, 2022 8:11:24 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-24-8-11
+Mar 24, 2022 8:11:28 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura moodificada:F002,-03-24-8-11
+Mar 24, 2022 8:12:16 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-12
+Mar 24, 2022 8:12:18 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-8-12
+Mar 24, 2022 8:12:18 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-12
+Mar 24, 2022 8:12:18 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-24-8-12
+Mar 24, 2022 8:12:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura moodificada:F002,-03-24-8-12
+Mar 24, 2022 8:13:43 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-8-13
+Mar 24, 2022 8:13:43 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-13
+Mar 24, 2022 8:13:43 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-24-8-13
+Mar 24, 2022 8:13:46 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura moodificada:F002,-03-24-8-13
+Mar 24, 2022 8:13:46 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-13
+Mar 24, 2022 8:13:58 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-13
+Mar 24, 2022 8:13:59 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-13
+Mar 24, 2022 8:14:01 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-14
+Mar 24, 2022 8:14:02 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-14
+Mar 24, 2022 8:14:02 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-14
+Mar 24, 2022 8:14:06 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-14
+Mar 24, 2022 8:14:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-14
+Mar 24, 2022 8:14:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-14
+Mar 24, 2022 8:14:46 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-14
+Mar 24, 2022 8:15:07 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-15
+Mar 24, 2022 8:15:40 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-15
+Mar 24, 2022 8:15:42 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-15
+Mar 24, 2022 8:15:43 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-15
+Mar 24, 2022 8:16:05 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-16
+Mar 24, 2022 8:16:24 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-16
+Mar 24, 2022 8:16:31 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-16
+Mar 24, 2022 8:16:34 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-16
+Mar 24, 2022 8:17:28 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-17
+Mar 24, 2022 8:18:10 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-18
+Mar 24, 2022 8:18:17 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-18
+Mar 24, 2022 8:18:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-18
+Mar 24, 2022 8:18:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-18
+Mar 24, 2022 8:18:21 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Detalle consultado:1,-03-24-8-18
+Mar 24, 2022 8:18:24 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle moodificado:1,-03-24-8-18
+Mar 24, 2022 8:18:24 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-18
+Mar 24, 2022 8:18:29 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-18
+Mar 24, 2022 8:18:30 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-18
+Mar 24, 2022 8:20:01 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-20
+Mar 24, 2022 8:21:32 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-21
+Mar 24, 2022 8:21:38 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle eliminado:<404 NOT_FOUND Not Found,{mensaje=El detalle con ID: 4 no existe en la base de datos},[]>,-03-24-8-21
+Mar 24, 2022 8:21:40 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle eliminado:<404 NOT_FOUND Not Found,{mensaje=El detalle con ID: 6 no existe en la base de datos},[]>,-03-24-8-21
+Mar 24, 2022 8:21:42 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-21
+Mar 24, 2022 8:22:48 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-22
+Mar 24, 2022 8:25:36 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-25
+Mar 24, 2022 8:25:36 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-25
+Mar 24, 2022 8:28:36 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-28
+Mar 24, 2022 8:28:36 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-28
+Mar 24, 2022 8:29:38 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-29
+Mar 24, 2022 8:29:38 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-29
+Mar 24, 2022 8:29:47 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-29
+Mar 24, 2022 8:29:48 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-29
+Mar 24, 2022 8:29:48 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-29
+Mar 24, 2022 8:30:44 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-30
+Mar 24, 2022 8:30:44 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-30
+Mar 24, 2022 8:30:48 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-30
+Mar 24, 2022 8:30:48 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-30
+Mar 24, 2022 8:30:54 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-30
+Mar 24, 2022 8:31:32 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-31
+Mar 24, 2022 8:31:32 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-31
+Mar 24, 2022 8:32:09 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-8-32
+Mar 24, 2022 8:32:09 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-8-32
+Mar 24, 2022 9:15:07 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-9-15
+Mar 24, 2022 9:15:07 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-9-15
+Mar 24, 2022 9:17:44 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-9-17
+Mar 24, 2022 9:17:44 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-9-17
+Mar 24, 2022 9:18:05 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-9-18
+Mar 24, 2022 9:18:05 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-9-18
+Mar 24, 2022 9:18:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-9-18
+Mar 24, 2022 9:18:23 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-9-18
+Mar 24, 2022 9:19:58 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-9-19
+Mar 24, 2022 9:19:58 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-9-19
+Mar 24, 2022 9:20:13 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-9-20
+Mar 24, 2022 9:20:13 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-9-20
+Mar 24, 2022 9:24:00 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-9-24
+Mar 24, 2022 9:24:01 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-9-24
+Mar 24, 2022 9:24:01 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-9-24
+Mar 24, 2022 12:06:37 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-0-6
+Mar 24, 2022 12:07:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-0-7
+Mar 24, 2022 12:07:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-0-7
+Mar 24, 2022 12:07:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-0-7
+Mar 24, 2022 12:07:10 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-0-7
+Mar 24, 2022 12:07:10 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-0-7
+Mar 24, 2022 12:07:14 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle moodificado:0,-03-24-0-7
+Mar 24, 2022 12:07:14 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-24-0-7
+Mar 24, 2022 12:07:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-0-7
+Mar 24, 2022 12:07:20 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-24-0-7
+Mar 24, 2022 3:53:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-24-3-53
+Mar 25, 2022 9:40:35 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-40
+Mar 25, 2022 9:40:35 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-40
+Mar 25, 2022 9:40:42 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-40
+Mar 25, 2022 9:40:42 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-40
+Mar 25, 2022 9:40:42 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-25-9-40
+Mar 25, 2022 9:40:47 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-40
+Mar 25, 2022 9:40:47 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-40
+Mar 25, 2022 9:40:49 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-40
+Mar 25, 2022 9:40:49 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-40
+Mar 25, 2022 9:40:49 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Factura consultada:F002,-03-25-9-40
+Mar 25, 2022 9:40:56 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura moodificada:F002,-03-25-9-40
+Mar 25, 2022 9:40:57 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-40
+Mar 25, 2022 9:40:57 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-40
+Mar 25, 2022 9:44:03 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-44
+Mar 25, 2022 9:44:04 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-44
+Mar 25, 2022 9:44:04 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-44
+Mar 25, 2022 9:44:08 AM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-44
+Mar 25, 2022 7:22:23 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-7-22
+Mar 25, 2022 7:22:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-7-22
+Mar 25, 2022 7:22:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-7-22
+Mar 25, 2022 7:22:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-7-22
+Mar 25, 2022 7:22:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-7-22
+Mar 25, 2022 7:22:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-7-22
+Mar 25, 2022 7:22:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-7-22
+Mar 25, 2022 7:22:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-7-22
+Mar 25, 2022 7:22:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-7-22
+Mar 25, 2022 9:13:47 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-13
+Mar 25, 2022 9:13:50 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-13
+Mar 25, 2022 9:13:50 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-13
+Mar 25, 2022 9:13:55 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Empleado actualizado,-03-25-9-13
+Mar 25, 2022 9:13:55 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-13
+Mar 25, 2022 9:14:04 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Empleado eliminado,-03-25-9-14
+Mar 25, 2022 9:14:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-14
+Mar 25, 2022 9:14:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Empleado creado,-03-25-9-14
+Mar 25, 2022 9:14:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-14
+Mar 25, 2022 9:14:30 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Empleado eliminado,-03-25-9-14
+Mar 25, 2022 9:14:34 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-14
+Mar 25, 2022 9:14:36 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Producto eliminado,-03-25-9-14
+Mar 25, 2022 9:14:38 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Procducto consultado,-03-25-9-14
+Mar 25, 2022 9:14:42 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Producto modificado,-03-25-9-14
+Mar 25, 2022 9:14:43 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-14
+Mar 25, 2022 9:14:47 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-14
+Mar 25, 2022 9:14:51 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Producto creado,-03-25-9-14
+Mar 25, 2022 9:14:51 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-14
+Mar 25, 2022 9:14:54 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Producto eliminado,-03-25-9-14
+Mar 25, 2022 9:14:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-14
+Mar 25, 2022 9:15:00 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura eliminado:<404 NOT_FOUND Not Found,{mensaje=La factura con ID: 10 no existe en la base de datos},[]>,-03-25-9-15
+Mar 25, 2022 9:15:01 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-15
+Mar 25, 2022 9:15:02 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-15
+Mar 25, 2022 9:15:02 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-15
+Mar 25, 2022 9:15:03 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-15
+Mar 25, 2022 9:15:03 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-15
+Mar 25, 2022 9:15:03 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-15
+Mar 25, 2022 9:18:15 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Factura creado:F001,-03-25-9-18
+Mar 25, 2022 9:18:15 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-18
+Mar 25, 2022 9:18:22 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-18
+Mar 25, 2022 9:18:23 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-18
+Mar 25, 2022 9:18:23 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-18
+Mar 25, 2022 9:18:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-18
+Mar 25, 2022 9:18:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-18
+Mar 25, 2022 9:18:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-18
+Mar 25, 2022 9:18:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-18
+Mar 25, 2022 9:18:31 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-18
+Mar 25, 2022 9:18:31 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-18
+Mar 25, 2022 9:18:31 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-18
+Mar 25, 2022 9:18:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-18
+Mar 25, 2022 9:18:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-18
+Mar 25, 2022 9:20:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-20
+Mar 25, 2022 9:20:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-20
+Mar 25, 2022 9:20:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-20
+Mar 25, 2022 9:20:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle moodificado:0,-03-25-9-20
+Mar 25, 2022 9:20:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-20
+Mar 25, 2022 9:20:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-20
+Mar 25, 2022 9:20:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-20
+Mar 25, 2022 9:20:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-20
+Mar 25, 2022 9:20:33 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-20
+Mar 25, 2022 9:20:33 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-20
+Mar 25, 2022 9:20:33 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-20
+Mar 25, 2022 9:20:36 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-20
+Mar 25, 2022 9:21:10 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-21
+Mar 25, 2022 9:21:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-21
+Mar 25, 2022 9:21:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-21
+Mar 25, 2022 9:21:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-21
+Mar 25, 2022 9:21:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-21
+Mar 25, 2022 9:21:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-21
+Mar 25, 2022 9:21:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-21
+Mar 25, 2022 9:21:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-21
+Mar 25, 2022 9:21:30 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle moodificado:0,-03-25-9-21
+Mar 25, 2022 9:21:30 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-21
+Mar 25, 2022 9:21:37 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-21
+Mar 25, 2022 9:23:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-23
+Mar 25, 2022 9:23:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-23
+Mar 25, 2022 9:23:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-23
+Mar 25, 2022 9:23:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-23
+Mar 25, 2022 9:23:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-23
+Mar 25, 2022 9:23:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-23
+Mar 25, 2022 9:23:33 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle creado:0,-03-25-9-23
+Mar 25, 2022 9:23:33 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-23
+Mar 25, 2022 9:23:37 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-23
+Mar 25, 2022 9:23:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle eliminado:<404 NOT_FOUND Not Found,{mensaje=El detalle con ID: 10 no existe en la base de datos},[]>,-03-25-9-23
+Mar 25, 2022 9:23:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-23
+Mar 25, 2022 9:23:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-23
+Mar 25, 2022 9:23:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-23
+Mar 25, 2022 9:24:01 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle creado:0,-03-25-9-24
+Mar 25, 2022 9:24:01 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-24
+Mar 25, 2022 9:24:02 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-24
+Mar 25, 2022 9:24:02 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-24
+Mar 25, 2022 9:24:03 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Detalle consultado:11,-03-25-9-24
+Mar 25, 2022 9:24:06 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle moodificado:11,-03-25-9-24
+Mar 25, 2022 9:24:06 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-24
+Mar 25, 2022 9:24:10 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-24
+Mar 25, 2022 9:24:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-24
+Mar 25, 2022 9:24:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-24
+Mar 25, 2022 9:24:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-24
+Mar 25, 2022 9:24:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GettMapping,Detalle consultado:11,-03-25-9-24
+Mar 25, 2022 9:24:18 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: PostMapping,Detalle moodificado:11,-03-25-9-24
+Mar 25, 2022 9:24:18 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-24
+Mar 25, 2022 9:24:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-24
+Mar 25, 2022 9:24:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-24
+Mar 25, 2022 9:24:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-24
+Mar 25, 2022 9:24:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-24
+Mar 25, 2022 9:24:27 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-24
+Mar 25, 2022 9:24:28 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-24
+Mar 25, 2022 9:24:28 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-24
+Mar 25, 2022 9:24:30 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-24
+Mar 25, 2022 9:24:30 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-24
+Mar 25, 2022 9:24:30 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-24
+Mar 25, 2022 9:24:31 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-24
+Mar 25, 2022 9:24:31 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-24
+Mar 25, 2022 9:24:31 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-24
+Mar 25, 2022 9:24:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de productos mostrada,-03-25-9-24
+Mar 25, 2022 9:24:55 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-24
+Mar 25, 2022 9:24:56 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-24
+Mar 25, 2022 9:25:28 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-25
+Mar 25, 2022 9:26:16 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-26
+Mar 25, 2022 9:26:23 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-9-26
+Mar 25, 2022 9:26:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-26
+Mar 25, 2022 9:26:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-26
+Mar 25, 2022 9:26:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-26
+Mar 25, 2022 9:26:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-26
+Mar 25, 2022 9:27:25 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-27
+Mar 25, 2022 9:28:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-28
+Mar 25, 2022 9:28:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-28
+Mar 25, 2022 9:28:40 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-28
+Mar 25, 2022 9:28:40 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-28
+Mar 25, 2022 9:29:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-29
+Mar 25, 2022 9:29:07 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-29
+Mar 25, 2022 9:29:49 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-29
+Mar 25, 2022 9:29:49 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-29
+Mar 25, 2022 9:31:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-31
+Mar 25, 2022 9:31:32 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-31
+Mar 25, 2022 9:33:53 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-33
+Mar 25, 2022 9:33:53 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-33
+Mar 25, 2022 9:33:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-33
+Mar 25, 2022 9:33:58 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-33
+Mar 25, 2022 9:34:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-34
+Mar 25, 2022 9:34:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-34
+Mar 25, 2022 9:34:36 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-34
+Mar 25, 2022 9:34:36 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-34
+Mar 25, 2022 9:36:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-36
+Mar 25, 2022 9:36:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-36
+Mar 25, 2022 9:37:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-37
+Mar 25, 2022 9:37:29 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-37
+Mar 25, 2022 9:37:31 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-37
+Mar 25, 2022 9:38:49 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-38
+Mar 25, 2022 9:38:49 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-38
+Mar 25, 2022 9:38:53 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-38
+Mar 25, 2022 9:42:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-42
+Mar 25, 2022 9:42:17 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-42
+Mar 25, 2022 9:42:19 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-42
+Mar 25, 2022 9:42:19 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-42
+Mar 25, 2022 9:44:06 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-44
+Mar 25, 2022 9:44:06 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-44
+Mar 25, 2022 9:46:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-46
+Mar 25, 2022 9:46:09 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-46
+Mar 25, 2022 9:48:15 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-48
+Mar 25, 2022 9:48:15 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-48
+Mar 25, 2022 9:49:11 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-49
+Mar 25, 2022 9:49:11 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-49
+Mar 25, 2022 9:49:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de fscturas mostrada,-03-25-9-49
+Mar 25, 2022 9:49:26 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-49
+Mar 25, 2022 9:49:44 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de detalles mostrada,-03-25-9-49
+Mar 25, 2022 10:20:46 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-10-20
+Mar 25, 2022 11:03:57 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-11-3
+Mar 25, 2022 11:11:21 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-11-11
+Mar 25, 2022 11:17:24 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-11-17
+Mar 25, 2022 11:17:51 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-11-17
+Mar 25, 2022 11:18:21 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-11-18
+Mar 25, 2022 11:34:43 PM com.cafeteria2.api.persistence.CafeteriaUtil guardarRegistroLog
+INFO: GetMapping,Lista de empleados mostrada,-03-25-11-34

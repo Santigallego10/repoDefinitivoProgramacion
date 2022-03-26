@@ -1,0 +1,48 @@
+<div class="card text-white mb-3">
+    <div class="card-header text-black">Empleados</div>
+    <div class="card-body">
+        <h5 class="card-title text-black">Lista de Empleados</h5>
+        <div>
+            <button class="btn btn-rounded btn-primary" type="button" [routerLink]="['/formEmpleado']">
+                Agregar Empleado
+            </button>
+        </div>
+        <table class="table table-bordered table-striped" *ngIf="empleados?.length>0">
+            <thead>
+                <tr>
+                    <th scope="col">id</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Apellido</th>
+                    <th scope="col">Documento</th>
+                    <th scope="col">Usuario</th>
+                    <th scope="col">Contrasena</th>
+                    <th scope="col">Salario</th>
+                    <th scope="col">Editar</th>
+                    <th scope="col">Eliminar</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let empleado of empleados">
+                    <td>{{empleado.idEmpleado}}</td>
+                    <td>{{empleado.nombre}}</td>
+                    <td>{{empleado.apellido}}</td>
+                    <td>{{empleado.documento}}</td>
+                    <td>{{empleado.usuario}}</td>
+                    <td>{{empleado.contrasena}}</td>
+                    <td>{{empleado.salario}}</td>
+                    <td scope="col">
+                        <button type="button" [routerLink]="['/formEmpleado',empleado.idEmpleado]" class="btn btn-primary btn-sm">
+                          Editar
+                        </button>
+                    </td>
+                    <td scope="col">
+                        <button type="button" (click)="delete(empleado)" class="btn btn-danger btn-sm">
+                            Eliminar
+                          </button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+</div>

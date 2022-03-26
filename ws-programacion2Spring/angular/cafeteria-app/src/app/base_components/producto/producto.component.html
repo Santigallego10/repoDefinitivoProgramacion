@@ -1,0 +1,46 @@
+<div class="card text-white mb-3">
+    <div class="card-header text-black">Productos</div>
+    <div class="card-body">
+        <h5 class="card-title text-black">Lista de Productos</h5>
+        <div>
+            <button class="btn btn-rounded btn-primary" type="button" [routerLink]="['/formProducto']">
+                Agregar Producto
+            </button>
+        </div>
+        <table class="table table-bordered table-striped" *ngIf="productos?.length>0">
+            <thead>
+                <tr>
+                    <th scope="col">id</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Cantidad</th>
+                    <th scope="col">Precio Comora</th>
+                    <th scope="col">Precio Venta</th>
+                    <th scope="col">Margen Ganancia</th>
+                    <th scope="col">Editar</th>
+                    <th scope="col">Eliminar</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let producto of productos">
+                    <td>{{producto.idProducto}}</td>
+                    <td>{{producto.nombre}}</td>
+                    <td>{{producto.cantidadExistencia}}</td>
+                    <td>{{producto.precioCompra}}</td>
+                    <td>{{producto.precioVenta}}</td>
+                    <td>{{producto.margenGanancia}}</td>
+                    <td scope="col">
+                        <button type="button" [routerLink]="['/formProducto',producto.idProducto]" class="btn btn-primary btn-sm">
+                          Editar
+                        </button>
+                    </td>
+                    <td scope="col">
+                        <button type="button" (click)="delete(producto)" class="btn btn-danger btn-sm">
+                            Eliminar
+                          </button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+</div>

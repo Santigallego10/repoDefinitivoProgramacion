@@ -1,0 +1,43 @@
+<div class="card bg-light text-black">
+    <div class="card-header">{{titulo}}</div>
+    <div class="card-body">
+        <form>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Nombre:</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="producto.nombre" name="nombre">
+                </div>
+            </div>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Cantidad Existencia:</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="producto.cantidadExistencia" name="cantidadExistencia">
+                </div>
+            </div>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Precio Compra:</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="producto.precioCompra" name=" precioCompra ">
+                </div>
+            </div>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Precio Venta:</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="producto.precioVenta" name="precioVenta">
+                </div>
+            </div>
+            <div class="form-group row ">
+                <div class="col-sm-6 ">
+                    <button class="btn btn-primary " role="button " (click)='crearProducto()' *ngIf="!producto.idProducto else elseBlock ">
+                        Crear
+                    </button>
+                    <ng-template #elseBlock>
+                        <button class="btn btn-primary " role="button " (click)='actualizarProducto()'>
+                            Actualizar
+                        </button>
+                    </ng-template>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

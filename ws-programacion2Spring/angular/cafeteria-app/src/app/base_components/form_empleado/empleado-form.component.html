@@ -1,0 +1,55 @@
+<div class="card bg-light text-black">
+    <div class="card-header">{{titulo}}</div>
+    <div class="card-body">
+        <form>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Nombre(s):</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="empleado.nombre" name="nombre">
+                </div>
+            </div>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Apellido:</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="empleado.apellido" name="apellido">
+                </div>
+            </div>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Documento:</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="empleado.documento" name="documento">
+                </div>
+            </div>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Usuario:</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="empleado.usuario" name="usuario">
+                </div>
+            </div>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Contrasena:</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="empleado.contrasena" name="contrasena">
+                </div>
+            </div>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Salario:</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="empleado.salario" name="salario">
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-sm-6">
+                    <button class="btn btn-primary" role="button" (click)='crearEmpleado()' *ngIf="!empleado.idEmpleado else elseBlock">
+                        Crear
+                    </button>
+                    <ng-template #elseBlock>
+                        <button class="btn btn-primary" role="button" (click)='actualizarEmpleado()'>
+                            Actualizar
+                        </button>
+                    </ng-template>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

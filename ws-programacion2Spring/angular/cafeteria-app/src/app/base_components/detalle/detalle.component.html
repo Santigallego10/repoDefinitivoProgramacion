@@ -1,0 +1,40 @@
+<div class="card text-white mb-3">
+    <div class="card-header text-black">Detalles</div>
+    <div class="card-body">
+        <h5 class="card-title text-black">Lista de Detalles</h5>
+        <div>
+            <button class="btn btn-rounded btn-primary my-sm-3" type="button" [routerLink]="['/formDetalle']">
+                Agregar producto a factura:
+            </button>
+        </div>
+        <table class="table table-bordered table-striped" *ngIf="detalles?.length>0">
+            <thead>
+                <tr>
+                    <th scope="col">id</th>
+                    <th scope="col">Producto</th>
+                    <th scope="col">Factura</th>
+                    <th scope="col">Editar</th>
+                    <th scope="col">Eliminar</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let detalle of detalles">
+                    <td>{{detalle.idDetalleFacturaProducto}}</td>
+                    <td>{{detalle.producto.nombre}}</td>
+                    <td>{{detalle.factura.recibo}}</td>
+                    <td scope="col">
+                        <button type="button" [routerLink]="['/formDetalle',detalle.idDetalleFacturaProducto]" class="btn btn-primary btn-sm">
+                          Editar
+                        </button>
+                    </td>
+                    <td scope="col">
+                        <button type="button" (click)="delete(detalle)" class="btn btn-danger btn-sm">
+                            Eliminar
+                          </button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+</div>

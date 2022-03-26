@@ -1,0 +1,55 @@
+<div class="card bg-light text-black">
+    <div class="card-header">{{titulo}}</div>
+    <div class="card-body">
+        <form>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Empleado:</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="factura.empleado_string" name="empleado_string">
+                </div>
+            </div>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Fecha:</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="factura.fecha" name="fecha">
+                </div>
+            </div>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">No. Recibo:</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="factura.recibo" name=" recibo ">
+                </div>
+            </div>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Empleado:</label>
+                <div class="col-sm-6">
+                    <select class="form-select" required name="name" [(ngModel)]="factura.empleado" name="empleado">
+                        <option selected>Seleccione un empleado</option>
+                        <option *ngFor="let empleado of empleados">{{empleado.nombre}}</option>
+                      </select>
+                </div>
+            </div>
+            <div class="form-group-row">
+                <label for="" class="col-form-label col-sm-2">Cliente:</label>
+                <div class="col-sm-6">
+                    <select class="form-select" required name="name" [(ngModel)]="factura.cliente" name="cliente">
+                        <option selected>Seleccione un cliente</option>
+                        <option *ngFor="let cliente of clientes">{{cliente.nombre}}</option>
+                      </select>
+                </div>
+            </div>
+            <div class="form-group row my-sm-3">
+                <div class="col-sm-6 ">
+                    <button class="btn btn-primary " role="button " (click)='crearFactura()' *ngIf="!factura.idFactura else elseBlock ">
+                        Crear
+                    </button>
+                    <ng-template #elseBlock>
+                        <button class="btn btn-primary " role="button " (click)='actualizarFactura()'>
+                            Actualizar
+                        </button>
+                    </ng-template>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
