@@ -124,6 +124,11 @@ public class EmpleadoRestController {
 	@PutMapping("/empleados/consulta/{nombre}")
 	@ResponseStatus(HttpStatus.ACCEPTED)
 	public List<Empleado> getConsulta(@PathVariable String nombre) {
+		try {
+			CafeteriaUtil.guardarRegistroLog("Consulta realizada",1,"GetMapping",RUTA_ARCHIVO_LOG);
+		}catch(Exception e) {
+			e.printStackTrace();
+		}
 		
 		return consultaServiceImpl.consultar(nombre);
 		
