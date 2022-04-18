@@ -7,49 +7,46 @@
                 Agregar Factura
             </button>
         </div>
-        <table class="table table-bordered table-striped" *ngIf="facturas?.length>0">
-            <thead>
-                <tr>
-                    <th scope="col">id</th>
-                    <th scope="col">Em.</th>
-                    <th scope="col">fecha</th>
-                    <th scope="col">No. Recibo</th>
-                    <th scope="col">Productos</th>
-                    <th scope="col">Cliente</th>
-                    <th scope="col">Empleado</th>
-                    <th scope="col">Editar</th>
-                    <th scope="col">Eliminar</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr *ngFor="let factura of facturas">
-                    <td>{{factura.idFactura}}</td>
-                    <td>{{factura.empleado_string}}</td>
-                    <td>{{factura.fecha}}</td>
-                    <td>{{factura.recibo}}</td>
-                    <td scope="col">
-                        <button type="button" (click)="mostrarP(factura)" class="btn btn-primary btn-sm">
-                            Ver Productos
+        <div class="mx-auto">
+            <table class="table table-bordered table-striped" *ngIf="facturas?.length>0">
+                <thead>
+                    <tr>
+                        <th scope="col">id</th>
+                        <th scope="col">Em.</th>
+                        <th scope="col">fecha</th>
+                        <th scope="col">No. Recibo</th>
+                        <th scope="col">Cliente</th>
+                        <th scope="col">Empleado</th>
+                        <th scope="col">Editar</th>
+                        <th scope="col">Eliminar</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let factura of facturas">
+                        <td>{{factura.idFactura}}</td>
+                        <td>{{factura.empleado_string}}</td>
+                        <td>{{factura.fecha}}</td>
+                        <td>{{factura.recibo}}</td>
+                        <td>{{factura.cliente.nombre}}</td>
+                        <td>{{factura.empleado.nombre}}</td>
+                        <td scope="col">
+                            <button type="button" [routerLink]="['/facturaView',factura.idFactura]" class="btn btn-primary btn-sm">
+                            Ver Factura
                           </button>
-                    </td>
-                    <td>{{factura.cliente.nombre}}</td>
-                    <td>{{factura.empleado.nombre}}</td>
-                    <td scope="col">
-                        <button type="button" [routerLink]="['/formFactura',factura.idFactura]" class="btn btn-primary btn-sm">
-                          Editar
-                        </button>
-                    </td>
-                    <td scope="col">
-                        <button type="button" (click)="delete(factura)" class="btn btn-danger btn-sm">
+                        </td>
+                        <td scope="col">
+                            <button type="button" (click)="delete(factura)" class="btn btn-danger btn-sm">
                             Eliminar
                           </button>
-                    </td>
-                </tr>
-            </tbody>
-            <div class="my-sm-3">
-                <button class="btn btn-danger btn-sm" (click)="downloadPDF()">Descargar PDF</button>
-            </div>
-        </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="my-sm-3">
+            <button class="btn btn-danger btn-sm" (click)="downloadPDF()">Descargar PDF</button>
+        </div>
 
     </div>
 </div>

@@ -1,94 +1,286 @@
-<body class="d-flex flex-column">
-    <!-- Page Content-->
-    <section class="py-5">
-        <div class="container px-5">
-            <h1 class="fw-bolder fs-5 mb-4">MOCAWA CAFE</h1>
-            <div class="card border-0 shadow rounded-3 overflow-hidden">
-                <div class="card-body p-0">
-                    <div class="row gx-0">
-                        <div class="col-lg-6 col-xl-5 py-lg-5">
-                            <div class="p-4 p-md-5">
-                                <div class="badge bg-primary bg-gradient rounded-pill mb-2">Ubicacion</div>
-                                <div class="h2 fw-bolder">Encuentranos en el C.C Mocawa - Primer Piso</div>
-                                <p>Empresa 100% Quindiana, ven a disfrutar de el delicioso sabor de nuestro cafe</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-xl-7">
-                            <img src="assets/images/location.png" width="714" height="372.5">
-                            <div class="bg-featured-blog" style="background-image: url('./assets/images/cafe.png')"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Blog preview section-->
-    <section class="py-5">
-        <div class="container px-5">
-            <h2 class="fw-bolder fs-5 mb-4">Ultimas Publicaciones</h2>
-            <div class="row gx-5">
-                <div class="col-lg-4 mb-5">
-                    <div class="card h-100 shadow border-0">
-                        <img class="card-img-top" src="assets/images/galleta.png" alt="..." />
-                        <div class="card-body p-4">
-                            <a class="text-decoration-none link-dark stretched-link" href="#!">
-                                <div class="h5 card-title mb-3">Compartir</div>
+<body>
+    <div>
+        <nav class="navbar sticky-top flex-md-nowrap p-0 bg-warning">
+            <a class="navbar-brand col-sm-3 col-md-2 mr-0 text-black bg-warning" href="#">Mocawa Cafe</a>
+            <ul class="navbar-nav px-3 bg-warning">
+                <li class="nav-item text-nowrap bg-warning">
+                    <a class="nav-link bg-warning" href="#">Sign out</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div class="container-fluid bg">
+        <div class="row">
+            <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+                <div class="sidebar-sticky">
+                    <ul class="nav flex-column text-black">
+                        <li class="nav-item">
+                            <a class="nav-link active text-black" href="#">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>                                Dashboard <span class="sr-only">(current)</span>
                             </a>
-                            <p class="card-text mb-0">Todo es mejor cuando compartes, te esperamos en nuestro cafe para que pases una tarde con tus seres queridos y el mejor cafe de la ciudad.</p>
-                        </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-black" href="#">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file"><path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline></svg>                                Orders
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-black" href="#">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-shopping-cart"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>                                Products
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-black" href="#">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-users"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>                                Customers
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-black" href="#">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-bar-chart-2"><line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line></svg>                                Reports
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-black" href="#">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-layers"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>                                Integrations
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
 
+            <main role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
+                <div class="chartjs-size-monitor" style="position: absolute; inset: 0px; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -1;">
+                    <div class="chartjs-size-monitor-expand" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
+                        <div style="position:absolute;width:1000000px;height:1000000px;left:0;top:0"></div>
+                    </div>
+                    <div class="chartjs-size-monitor-shrink" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
+                        <div style="position:absolute;width:200%;height:200%;left:0; top:0"></div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-5">
-                    <div class="card h-100 shadow border-0">
-                        <img class="card-img-top" src="assets/images/long2.png" alt="..." />
-                        <div class="card-body p-4">
-                            <a class="text-decoration-none link-dark stretched-link" href="#!">
-                                <div class="h5 card-title mb-3">AutoServicio</div>
-                            </a>
-                            <p class="card-text mb-0">En nustro cafe podras ordenar lo que desees y tenerlo en cuestion de minutos en tus manos, sin esperas y con un ambiente excelente para descansar con tu cafe</p>
+                <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
+                    <h1 class="h2">Dashboard</h1>
+                    <div class="btn-toolbar mb-2 mb-md-0">
+                        <div class="btn-group mr-2">
+                            <button class="btn btn-sm btn-outline-secondary">Share</button>
+                            <button class="btn btn-sm btn-outline-secondary">Export</button>
                         </div>
+                        <button class="btn btn-sm btn-outline-secondary dropdown-toggle">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+                This week
+              </button>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-5">
-                    <div class="card h-100 shadow border-0">
-                        <img class="card-img-top" src="assets/images/croissant.png" alt="..." />
-                        <div class="card-body p-4">
-                            <a class="text-decoration-none link-dark stretched-link" href="#!">
-                                <div class="h5 card-title mb-3">Croissants</div>
-                            </a>
-                            <p class="card-text mb-0">Disfruta el sabor y la variedad de nuestros croissants, horneados a diarios para poderte entregar un producto lo as fresco y delicioso posible.</p>
-                        </div>
-                    </div>
+
+                <canvas class="my-4 chartjs-render-monitor" id="myChart" width="2280" height="962" style="display: block; height: 481px; width: 1140px;"></canvas>
+
+                <h2>Section title</h2>
+                <div class="table-responsive">
+                    <table class="table table-striped table-sm">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Header</th>
+                                <th>Header</th>
+                                <th>Header</th>
+                                <th>Header</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1,001</td>
+                                <td>Lorem</td>
+                                <td>ipsum</td>
+                                <td>dolor</td>
+                                <td>sit</td>
+                            </tr>
+                            <tr>
+                                <td>1,002</td>
+                                <td>amet</td>
+                                <td>consectetur</td>
+                                <td>adipiscing</td>
+                                <td>elit</td>
+                            </tr>
+                            <tr>
+                                <td>1,003</td>
+                                <td>Integer</td>
+                                <td>nec</td>
+                                <td>odio</td>
+                                <td>Praesent</td>
+                            </tr>
+                            <tr>
+                                <td>1,003</td>
+                                <td>libero</td>
+                                <td>Sed</td>
+                                <td>cursus</td>
+                                <td>ante</td>
+                            </tr>
+                            <tr>
+                                <td>1,004</td>
+                                <td>dapibus</td>
+                                <td>diam</td>
+                                <td>Sed</td>
+                                <td>nisi</td>
+                            </tr>
+                            <tr>
+                                <td>1,005</td>
+                                <td>Nulla</td>
+                                <td>quis</td>
+                                <td>sem</td>
+                                <td>at</td>
+                            </tr>
+                            <tr>
+                                <td>1,006</td>
+                                <td>nibh</td>
+                                <td>elementum</td>
+                                <td>imperdiet</td>
+                                <td>Duis</td>
+                            </tr>
+                            <tr>
+                                <td>1,007</td>
+                                <td>sagittis</td>
+                                <td>ipsum</td>
+                                <td>Praesent</td>
+                                <td>mauris</td>
+                            </tr>
+                            <tr>
+                                <td>1,008</td>
+                                <td>Fusce</td>
+                                <td>nec</td>
+                                <td>tellus</td>
+                                <td>sed</td>
+                            </tr>
+                            <tr>
+                                <td>1,009</td>
+                                <td>augue</td>
+                                <td>semper</td>
+                                <td>porta</td>
+                                <td>Mauris</td>
+                            </tr>
+                            <tr>
+                                <td>1,010</td>
+                                <td>massa</td>
+                                <td>Vestibulum</td>
+                                <td>lacinia</td>
+                                <td>arcu</td>
+                            </tr>
+                            <tr>
+                                <td>1,011</td>
+                                <td>eget</td>
+                                <td>nulla</td>
+                                <td>Class</td>
+                                <td>aptent</td>
+                            </tr>
+                            <tr>
+                                <td>1,012</td>
+                                <td>taciti</td>
+                                <td>sociosqu</td>
+                                <td>ad</td>
+                                <td>litora</td>
+                            </tr>
+                            <tr>
+                                <td>1,013</td>
+                                <td>torquent</td>
+                                <td>per</td>
+                                <td>conubia</td>
+                                <td>nostra</td>
+                            </tr>
+                            <tr>
+                                <td>1,014</td>
+                                <td>per</td>
+                                <td>inceptos</td>
+                                <td>himenaeos</td>
+                                <td>Curabitur</td>
+                            </tr>
+                            <tr>
+                                <td>1,015</td>
+                                <td>sodales</td>
+                                <td>ligula</td>
+                                <td>in</td>
+                                <td>libero</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
-            </div>
-            <div class="text-end mb-5 mb-xl-0">
-                <a class="text-decoration-none" href="#!">
-                            More stories
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
-            </div>
+            </main>
         </div>
-    </section>
-    <!-- Footer-->
-    <footer class="bg-dark py-4 mt-auto">
-        <div class="container px-5">
-            <div class="row align-items-center justify-content-between flex-column flex-sm-row">
-                <div class="col-auto">
-                    <div class="small m-0 text-white">Copyright &copy; Your Website 2022</div>
-                </div>
-                <div class="col-auto">
-                    <a class="link-light small" href="#!">Privacy</a>
-                    <span class="text-white mx-1">&middot;</span>
-                    <a class="link-light small" href="#!">Terms</a>
-                    <span class="text-white mx-1">&middot;</span>
-                    <a class="link-light small" href="#!">Contact</a>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- Bootstrap core JS-->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- Core theme JS-->
-    <script src="js/scripts.js"></script>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>
+        window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')
+    </script>
+    <script src="../../assets/js/vendor/popper.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+
+    <!-- Icons -->
+    <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
+    <script>
+        feather.replace()
+    </script>
+
+    <!-- Graphs -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.7.1/dist/Chart.min.js"></script>
+    <script>
+        var ctx = document.getElementById("myChart");
+        var myChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+                datasets: [{
+                    data: [15339, 21345, 18483, 24003, 23489, 24092, 12034],
+                    lineTension: 0,
+                    backgroundColor: 'transparent',
+                    borderColor: '#007bff',
+                    borderWidth: 4,
+                    pointBackgroundColor: '#007bff'
+                }]
+            },
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: false
+                        }
+                    }]
+                },
+                legend: {
+                    display: false,
+                }
+            }
+        });
+    </script>
+
+
+    <iframe allowfullscreen="" src="data:text/html;charset=utf-8, %3C%21DOCTYPE%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%0A%0A%3Chead%3E%0A%20%20%3Cmeta%20charset%3D%22utf-8%22%20/%3E%0A%20%20%3Cmeta%20name%3D%27viewport%27%20content%3D%27width%3Ddevice-width%2C%20initial-scale%3D1.0%2C%20maximum-scale%3D1.0%2C%20user-scalable%3D0%27%20/%3E%0A%20%20%3Cstyle%3E%0A%20%20%20%20html%20%7B%0A%20%20%20%20%20%20width%3A%20100%25%3B%0A%20%20%20%20%20%20height%3A%20100%25%3B%0A%20%20%20%20%7D%0A%20%20%20%20body%20%7B%0A%20%20%20%20%20%20overflow%3A%20hidden%20%21important%3B%0A%20%20%20%20%20%20margin%3A%200%3B%0A%20%20%20%20%20%20width%3A%20100%25%3B%0A%20%20%20%20%20%20height%3A%20100%25%3B%0A%20%20%20%20%7D%0A%20%20%3C/style%3E%0A%20%20%3Clink%20href%3D%22chrome-extension%3A//odfonlkabodgbolnmmkdijkaeggofoop/assets/css/font-awesome.min.css%22%20rel%3D%22stylesheet%22%20/%3E%0A%20%20%3Clink%20href%3D%22chrome-extension%3A//odfonlkabodgbolnmmkdijkaeggofoop/pages/content/highlight.min.css%22%20rel%3D%22stylesheet%22%20/%3E%0A%20%20%3Clink%20href%3D%22chrome-extension%3A//odfonlkabodgbolnmmkdijkaeggofoop/pages/content/app.css%22%20rel%3D%22stylesheet%22%20/%3E%0A%20%20%3Ctextarea%20id%3D%22config%22%20style%3D%22display%3Anone%22%3E%7B%22theme%22%3A%22default%22%2C%22zoom%22%3A1%2C%22outline%22%3Atrue%2C%22themeDay%22%3A%22default%22%2C%22themeNight%22%3A%22gray%22%2C%22themeAuto%22%3Afalse%2C%22syntax%22%3Atrue%2C%22width%22%3A2%2C%22background%22%3Atrue%2C%22linkOpenNew%22%3Atrue%2C%22translateLang%22%3A%22en-US%22%2C%22clearly%22%3A%7B%22whitelist%22%3A%5B%22news.google.com/*%22%2C%22support.google.com/*%22%2C%22medium.com/*%22%2C%22www.jianshu.com/p/*%22%5D%2C%22blacklist%22%3A%5B%22www.youtube.com/*%22%2C%22www.google.*%22%2C%22chrome.google.com/*%22%2C%22translate.google.com/*%22%2C%22mail.google.com/*%22%2C%22drive.google.com/*%22%2C%22docs.google.com/*%22%2C%22spreadsheet.google.com/*%22%5D%2C%22fonts%22%3A%5B%7B%22name%22%3A%22Lora%22%2C%22lang%22%3A%5B%22en%22%5D%2C%22default%22%3A%22en%22%2C%22system%22%3A%5B%22win%22%2C%22mac%22%5D%7D%2C%7B%22name%22%3A%22NotoSerif%22%2C%22lang%22%3A%5B%22en%22%5D%2C%22system%22%3A%5B%22win%22%2C%22mac%22%5D%7D%2C%7B%22name%22%3A%22Crimson%20Text%22%2C%22lang%22%3A%5B%22en%22%5D%2C%22system%22%3A%5B%22win%22%2C%22mac%22%5D%7D%2C%7B%22name%22%3A%22Georgia%22%2C%22lang%22%3A%5B%22en%22%5D%2C%22system%22%3A%5B%22win%22%2C%22mac%22%5D%7D%2C%7B%22name%22%3A%22Roboto%22%2C%22lang%22%3A%5B%22en%22%5D%2C%22system%22%3A%5B%22win%22%2C%22mac%22%5D%7D%2C%7B%22name%22%3A%22Kaiti%22%2C%22lang%22%3A%5B%22zh%22%5D%2C%22default%22%3A%22zh%22%2C%22system%22%3A%5B%22win%22%2C%22mac%22%5D%7D%2C%7B%22name%22%3A%22Songti%22%2C%22lang%22%3A%5B%22zh%22%5D%2C%22system%22%3A%5B%22win%22%2C%22mac%22%5D%7D%2C%7B%22name%22%3A%22System%22%2C%22lang%22%3A%5B%22zh%22%2C%22en%22%5D%2C%22system%22%3A%5B%22win%22%2C%22mac%22%5D%7D%5D%7D%2C%22lang%22%3A%22en%22%7D%3C/textarea%3E%3Ctextarea%20id%3D%22env%22%20style%3D%22display%3Anone%22%3E%7B%22debug%22%3Afalse%7D%3C/textarea%3E%0A%3C/head%3E%0A%0A%3Cbody%20id%3D%22root%22%3E%0A%20%20%3Cdiv%20id%3D%22popshare%22%3E%0A%20%20%20%20%3Ccanvas%20id%3D%22popshare-image%22%3E%3C/canvas%3E%0A%20%20%3C/div%3E%0A%20%20%3Cdiv%20id%3D%22clearly-btn%22%3E%3Cimg%20src%3D%22chrome-extension%3A//odfonlkabodgbolnmmkdijkaeggofoop/assets/icons/active/ic_48.png%22%20/%3E%3C/div%3E%0A%20%20%3Cdiv%20id%3D%22poptranslate%22%3E%0A%20%20%20%20%3Cdiv%20id%3D%22poptranslate-toolbox%22%3E%0A%20%20%20%20%3Cspan%3ETranslation%20language%3A%3C/span%3E%20%3Cselect%20id%3D%22poptranslate-lang%22%3E%3Coption%20value%3D%22af%22%3EAfrikaans%3C/option%3E%3Coption%20value%3D%22sq%22%3EAlbanian%3C/option%3E%3Coption%20value%3D%22am%22%3EAmharic%3C/option%3E%3Coption%20value%3D%22ar%22%3EArabic%3C/option%3E%3Coption%20value%3D%22hy%22%3EArmenian%3C/option%3E%3Coption%20value%3D%22az%22%3EAzerbaijani%3C/option%3E%3Coption%20value%3D%22eu%22%3EBasque%3C/option%3E%3Coption%20value%3D%22be%22%3EBelarusian%3C/option%3E%3Coption%20value%3D%22bn%22%3EBengali%3C/option%3E%3Coption%20value%3D%22bs%22%3EBosnian%3C/option%3E%3Coption%20value%3D%22bg%22%3EBulgarian%3C/option%3E%3Coption%20value%3D%22ca%22%3ECatalan%3C/option%3E%3Coption%20value%3D%22ceb%22%3ECebuano%3C/option%3E%3Coption%20value%3D%22ny%22%3EChichewa%3C/option%3E%3Coption%20value%3D%22zh-CN%22%3EChinese%20%28Simplified%29%3C/option%3E%3Coption%20value%3D%22zh-TW%22%3EChinese%20%28Traditional%29%3C/option%3E%3Coption%20value%3D%22co%22%3ECorsican%3C/option%3E%3Coption%20value%3D%22hr%22%3ECroatian%3C/option%3E%3Coption%20value%3D%22cs%22%3ECzech%3C/option%3E%3Coption%20value%3D%22da%22%3EDanish%3C/option%3E%3Coption%20value%3D%22nl%22%3EDutch%3C/option%3E%3Coption%20value%3D%22en%22%3EEnglish%3C/option%3E%3Coption%20value%3D%22eo%22%3EEsperanto%3C/option%3E%3Coption%20value%3D%22et%22%3EEstonian%3C/option%3E%3Coption%20value%3D%22tl%22%3EFilipino%3C/option%3E%3Coption%20value%3D%22fi%22%3EFinnish%3C/option%3E%3Coption%20value%3D%22fr%22%3EFrench%3C/option%3E%3Coption%20value%3D%22fy%22%3EFrisian%3C/option%3E%3Coption%20value%3D%22gl%22%3EGalician%3C/option%3E%3Coption%20value%3D%22ka%22%3EGeorgian%3C/option%3E%3Coption%20value%3D%22de%22%3EGerman%3C/option%3E%3Coption%20value%3D%22el%22%3EGreek%3C/option%3E%3Coption%20value%3D%22gu%22%3EGujarati%3C/option%3E%3Coption%20value%3D%22ht%22%3EHaitian%20Creole%3C/option%3E%3Coption%20value%3D%22ha%22%3EHausa%3C/option%3E%3Coption%20value%3D%22haw%22%3EHawaiian%3C/option%3E%3Coption%20value%3D%22iw%22%3EHebrew%3C/option%3E%3Coption%20value%3D%22hi%22%3EHindi%3C/option%3E%3Coption%20value%3D%22hmn%22%3EHmong%3C/option%3E%3Coption%20value%3D%22hu%22%3EHungarian%3C/option%3E%3Coption%20value%3D%22is%22%3EIcelandic%3C/option%3E%3Coption%20value%3D%22ig%22%3EIgbo%3C/option%3E%3Coption%20value%3D%22id%22%3EIndonesian%3C/option%3E%3Coption%20value%3D%22ga%22%3EIrish%3C/option%3E%3Coption%20value%3D%22it%22%3EItalian%3C/option%3E%3Coption%20value%3D%22ja%22%3EJapanese%3C/option%3E%3Coption%20value%3D%22jw%22%3EJavanese%3C/option%3E%3Coption%20value%3D%22kn%22%3EKannada%3C/option%3E%3Coption%20value%3D%22kk%22%3EKazakh%3C/option%3E%3Coption%20value%3D%22km%22%3EKhmer%3C/option%3E%3Coption%20value%3D%22ko%22%3EKorean%3C/option%3E%3Coption%20value%3D%22ku%22%3EKurdish%20%28Kurmanji%29%3C/option%3E%3Coption%20value%3D%22ky%22%3EKyrgyz%3C/option%3E%3Coption%20value%3D%22lo%22%3ELao%3C/option%3E%3Coption%20value%3D%22la%22%3ELatin%3C/option%3E%3Coption%20value%3D%22lv%22%3ELatvian%3C/option%3E%3Coption%20value%3D%22lt%22%3ELithuanian%3C/option%3E%3Coption%20value%3D%22lb%22%3ELuxembourgish%3C/option%3E%3Coption%20value%3D%22mk%22%3EMacedonian%3C/option%3E%3Coption%20value%3D%22mg%22%3EMalagasy%3C/option%3E%3Coption%20value%3D%22ms%22%3EMalay%3C/option%3E%3Coption%20value%3D%22ml%22%3EMalayalam%3C/option%3E%3Coption%20value%3D%22mt%22%3EMaltese%3C/option%3E%3Coption%20value%3D%22mi%22%3EMaori%3C/option%3E%3Coption%20value%3D%22mr%22%3EMarathi%3C/option%3E%3Coption%20value%3D%22mn%22%3EMongolian%3C/option%3E%3Coption%20value%3D%22my%22%3EMyanmar%20%28Burmese%29%3C/option%3E%3Coption%20value%3D%22ne%22%3ENepali%3C/option%3E%3Coption%20value%3D%22no%22%3ENorwegian%3C/option%3E%3Coption%20value%3D%22ps%22%3EPashto%3C/option%3E%3Coption%20value%3D%22fa%22%3EPersian%3C/option%3E%3Coption%20value%3D%22pl%22%3EPolish%3C/option%3E%3Coption%20value%3D%22pt%22%3EPortuguese%3C/option%3E%3Coption%20value%3D%22pa%22%3EPunjabi%3C/option%3E%3Coption%20value%3D%22ro%22%3ERomanian%3C/option%3E%3Coption%20value%3D%22ru%22%3ERussian%3C/option%3E%3Coption%20value%3D%22sm%22%3ESamoan%3C/option%3E%3Coption%20value%3D%22gd%22%3EScots%20Gaelic%3C/option%3E%3Coption%20value%3D%22sr%22%3ESerbian%3C/option%3E%3Coption%20value%3D%22st%22%3ESesotho%3C/option%3E%3Coption%20value%3D%22sn%22%3EShona%3C/option%3E%3Coption%20value%3D%22sd%22%3ESindhi%3C/option%3E%3Coption%20value%3D%22si%22%3ESinhala%3C/option%3E%3Coption%20value%3D%22sk%22%3ESlovak%3C/option%3E%3Coption%20value%3D%22sl%22%3ESlovenian%3C/option%3E%3Coption%20value%3D%22so%22%3ESomali%3C/option%3E%3Coption%20value%3D%22es%22%3ESpanish%3C/option%3E%3Coption%20value%3D%22su%22%3ESundanese%3C/option%3E%3Coption%20value%3D%22sw%22%3ESwahili%3C/option%3E%3Coption%20value%3D%22sv%22%3ESwedish%3C/option%3E%3Coption%20value%3D%22tg%22%3ETajik%3C/option%3E%3Coption%20value%3D%22ta%22%3ETamil%3C/option%3E%3Coption%20value%3D%22te%22%3ETelugu%3C/option%3E%3Coption%20value%3D%22th%22%3EThai%3C/option%3E%3Coption%20value%3D%22tr%22%3ETurkish%3C/option%3E%3Coption%20value%3D%22uk%22%3EUkrainian%3C/option%3E%3Coption%20value%3D%22ur%22%3EUrdu%3C/option%3E%3Coption%20value%3D%22uz%22%3EUzbek%3C/option%3E%3Coption%20value%3D%22vi%22%3EVietnamese%3C/option%3E%3Coption%20value%3D%22cy%22%3EWelsh%3C/option%3E%3Coption%20value%3D%22xh%22%3EXhosa%3C/option%3E%3Coption%20value%3D%22yi%22%3EYiddish%3C/option%3E%3Coption%20value%3D%22yo%22%3EYoruba%3C/option%3E%3Coption%20value%3D%22zu%22%3EZulu%3C/option%3E%3C/select%3E%0A%20%20%20%20%3C/div%3E%0A%20%20%20%20%3Cdiv%20id%3D%22poptranslate-content%22%3E%0A%20%20%20%20%20%20%3Cdiv%20id%3D%22poptranslate-word%22%3E%3C/div%3E%0A%20%20%20%20%20%20%3Cdiv%20id%3D%22poptranslate-voice%22%3E%0A%20%20%20%20%20%20%20%20%3Ci%20class%3D%22material-icons%22%20id%3D%22poptranslate-btn-speak%22%3Evolume_up%3C/i%3E%0A%20%20%20%20%20%20%20%20%3Cspan%3E%3C/span%3E%0A%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%3Cdiv%20id%3D%22poptranslate-explain%22%3E%3C/div%3E%0A%20%20%20%20%20%20%3Cdiv%20id%3D%22poptranslate-translit%22%3E%3C/div%3E%0A%20%20%20%20%20%20%3Cdiv%20id%3D%22poptranslate-dict%22%3E%3C/div%3E%0A%20%20%20%20%3C/div%3E%0A%20%20%3C/div%3E%0A%20%20%3Cdiv%20id%3D%22popmenu%22%3E%0A%20%20%20%20%3Cdiv%20id%3D%22popmenu-overlay%22%3E%3C/div%3E%0A%20%20%20%20%3Cdiv%20id%3D%22popmenu-container%22%3E%0A%20%20%20%20%20%20%3Cli%20id%3D%22popmenu-translate%22%20class%3D%22popmenu-item%22%20data-type%3D%22translate%22%3ETranslate%3C/li%3E%0A%20%20%20%20%20%20%3Cli%20id%3D%22popmenu-copy%22%20class%3D%22popmenu-item%22%20data-type%3D%22copy%22%3ECopy%3C/li%3E%0A%20%20%20%20%20%20%3C%21--%20%3Cli%20id%3D%22popmenu-highlight%22%20class%3D%22popmenu-item%22%20data-type%3D%22highlight%22%3EHighlight%3C/li%3E%20--%3E%0A%20%20%20%20%20%20%3Cli%20id%3D%22popmenu-search%22%20class%3D%22popmenu-item%22%20data-type%3D%22search%22%3ESearch%3C/li%3E%0A%20%20%20%20%20%20%3Cli%20id%3D%22popmenu-wiki%22%20class%3D%22popmenu-item%22%20data-type%3D%22wiki%22%3EWiki%3C/li%3E%0A%20%20%20%20%20%20%3C%21--%20%3Cli%20id%3D%22popmenu-share%22%20class%3D%22popmenu-item%22%20data-type%3D%22share%22%3EShare%3C/li%3E%20--%3E%0A%20%20%20%20%3C/div%3E%0A%20%20%20%20%3C%21--%3Cli%20id%3D%22popmenu-share%22%3EShare%3C/li%3E--%3E%0A%20%20%3C/div%3E%0A%20%20%3Cdiv%20id%3D%22outline%22%3E%0A%20%20%20%20%3Cdiv%20id%3D%22outlines%22%20class%3D%22outlines%22%3E%3C/div%3E%0A%20%20%20%20%3Cdiv%20id%3D%22links-container%22%3E%0A%20%20%20%20%20%20%3Ch5%20id%3D%22links-head%22%3ELinks%3C/h5%3E%0A%20%20%20%20%20%20%3Cdiv%20id%3D%22links%22%20class%3D%22links%22%3E%3C/div%3E%0A%20%20%20%20%3C/div%3E%0A%20%20%3C/div%3E%0A%20%20%3Cdiv%20id%3D%22main%22%3E%0A%0A%20%20%20%20%3Cdiv%20id%3D%22loading%22%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22loading-content%22%3E%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22loading-icon%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22line%20line-1%22%3E%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22line%20line-2%22%3E%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22line%20line-3%22%3E%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22line%20line-4%22%3E%3C/div%3E%0A%20%20%20%20%20%20%20%3C/div%3E%20%0A%20%20%20%20%20%20%20%3Cspan%3EContent%20is%20analyzing...%3C/span%3E%0A%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%3C/div%3E%0A%20%20%20%20%0A%20%20%20%20%3Cdiv%20id%3D%22container%22%3E%0A%20%20%20%20%20%20%3Ch1%20id%3D%22title%22%20class%3D%22ros%22%3E%3C/h1%3E%0A%20%20%20%20%20%20%3Cdiv%20id%3D%22cover%22%3E%3C/div%3E%0A%20%20%20%20%20%20%3Cdiv%20id%3D%22byline%22%3E%3C/div%3E%0A%20%20%20%20%20%20%3Cdiv%20id%3D%22content%22%3ENo%20Aritcle%3C/div%3E%0A%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%3Cfooter%20id%3D%22footer%22%20data-html2canvas-ignore%3D%22true%22%3E%0A%20%20%20%20%20%20%3Cdiv%20id%3D%22share%22%20class%3D%22share%22%3E%0A%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22share-title%22%3EDoes%20Clearly%20works%20fine%3F%3C/span%3E%0A%20%20%20%20%20%20%20%20%3Cdiv%20id%3D%22share-default%22%20class%3D%22share-overlay%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Ci%20id%3D%22btn-thumb-up%22%20class%3D%22material-icons%20thumb%20thumb-up%22%3Ethumb_up%3C/i%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Ci%20id%3D%22btn-thumb-down%22%20class%3D%22material-icons%20thumb%20thumb-down%22%3Ethumb_down%3C/i%3E%0A%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%3Cdiv%20id%3D%22share-no%22%20class%3D%22share-overlay%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22share-letter%22%3EWe%20have%20received%20your%20feedback%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%3Ca%20id%3D%22btn-cantact%22%20class%3D%22btn-cantact%22%20href%3D%22https%3A//clearlyreader.com/r/report%22%20target%3D%22_blank%22%3E%3Ci%20class%3D%22material-icons%22%3Email_outline%3C/i%3EContact%20us%3C/a%3E%0A%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%3Cdiv%20id%3D%22share-yes%22%20class%3D%22share-overlay%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22share-letter%22%3EHelp%20Clearly%20Reader%20to%20better%3F%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%3Ca%20id%3D%22btn-comments%22%20href%3D%22https%3A//clearlyreader.com/r/reviews%22%20target%3D%22_blank%22%3E%3Ci%20class%3D%22material-icons%22%3Estar_border%3C/i%3EGive%20stars%3C/a%3E%0A%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22moretips%22%20%3E%0A%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22shortcut%22%3ETips%3A%20%3Cstrong%3EALT/OPTION%20+%20R%3C/strong%3E%20to%20Toggle%2C%20%3Cstrong%3EESC%3C/strong%3E%20to%20Close.%3C/span%3E%0A%20%20%20%20%20%20%20%20%3Ca%20class%3D%22feedback%22%20target%3D%22_blank%22%20href%3D%22https%3A//clearlyreader.com/r/subscribe%22%3E%3Ci%20class%3D%22material-icons%22%3Email%3C/i%3ESubscribe%20newsletter%3C/a%3E%0A%20%20%20%20%20%20%20%20%3C%21--%20%3Ca%20target%3D%22_blank%22%20class%3D%22donate%22%20href%3D%22https%3A//clearlyreader.com/r/feedback%22%3EFeedback%3C/a%3E%20--%3E%0A%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%3C/footer%3E%0A%0A%20%20%20%20%3C%21--%20%3Cdiv%20id%3D%22print-footer%22%3E%0A%20%20%20%20%20%20Generate%20by%20Clearly%20Reader%0A%20%20%20%20%3C/div%3E%20--%3E%0A%0A%20%20%3C/div%3E%0A%20%20%3Cdiv%20id%3D%22tool%22%3E%0A%20%20%20%20%20%20%3C%21--%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22menu%22%3E%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn%22%20id%3D%22translate-start%22%3E%u5F00%u59CB%3C/span%3E%0A%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20--%3E%0A%0A%20%20%20%20%3Cdiv%20class%3D%22menu%22%3E%0A%20%20%20%20%20%20%3Cspan%20id%3D%22btn-close%22%3E%3Ci%20class%3D%22material-icons%22%3Ecancel%3C/i%3E%3C/span%3E%0A%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%3Cdiv%20class%3D%22menu%22%20menu-tooltip%3D%22Theme%20Settings%22%3E%0A%20%20%20%20%20%20%3Cspan%20id%3D%22btn-style%22%3E%3C/span%3E%0A%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%3Cdiv%20class%3D%22menu%22%20id%3D%22menu-speak%22%20menu-tooltip%3D%22Speak%22%3E%0A%20%20%20%20%20%20%3Cspan%20id%3D%22btn-speak%22%3E%3Ci%20class%3D%22material-icons%22%20id%3D%22menu-speak-icon%22%3Evolume_up%3C/i%3E%3C/span%3E%0A%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%3Cdiv%20class%3D%22menu%22%20id%3D%22menu-export%22%3E%0A%20%20%20%20%20%20%3Cspan%3E%3Ci%20class%3D%22material-icons%22%20id%3D%22output%22%3Efile_download%3C/i%3E%3C/span%3E%0A%20%20%20%20%20%20%3Cul%20class%3D%22menu-sub%22%3E%0A%20%20%20%20%20%20%20%20%3Cli%20id%3D%22btn-print%22%3EPrint%20PDF%3C/li%3E%0A%20%20%20%20%20%20%20%20%3Cli%20id%3D%22btn-export-doc%22%3EExport%20Doc%3C/li%3E%0A%20%20%20%20%20%20%20%20%3Cli%20id%3D%22btn-export-md%22%3EExport%20Markdown%3C/li%3E%0A%20%20%20%20%20%20%3C/ul%3E%0A%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%3Cdiv%20class%3D%22menu%22%20id%3D%22menu-fullscreen%22%20menu-tooltip%3D%22Fullscreen%22%3E%0A%20%20%20%20%20%20%3Cspan%3E%3Ci%20class%3D%22material-icons%22%20id%3D%22menu-fullscreen-icon%22%3Efullscreen%3C/i%3E%3C/span%3E%0A%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%3C%21--%20%3Cdiv%20class%3D%22menu%22%20menu-tooltip%3D%22Info%22%20id%3D%22btn-history%22%3E%0A%20%20%20%20%20%20%3Cspan%3E%3Ci%20class%3D%22material-icons%22%3Einfo%3C/i%3E%3C/span%3E%0A%20%20%20%20%3C/div%3E%20--%3E%0A%0A%20%20%20%20%3Cdiv%20class%3D%22menu%22%20menu-tooltip%3D%22Report%20bug%22%20id%3D%22btn-report%22%3E%0A%20%20%20%20%20%20%3Cspan%3E%3Ci%20class%3D%22material-icons%22%3Ebug_report%3C/i%3E%3C/span%3E%0A%20%20%20%20%3C/div%3E%0A%0A%0A%20%20%20%20%3C%21--%20dialog%20popup%20--%3E%0A%0A%20%20%20%20%3Cdiv%20class%3D%22dialog%22%20id%3D%22dialog-style%22%3E%0A%20%20%20%20%20%20%20%3Cdiv%20class%3D%22overlay-backdrop%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22setting%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22dialog-header%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22dialog-title%22%3EStyle%20Setting%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22dialog-btn-close%22%3E%3Ci%20class%3D%22material-icons%22%3Eclose%3C/i%3E%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22tcell%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-label%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%3EFont%20size%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20id%3D%22value-zoom%22%20class%3D%22form-value%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn-letter%22%20id%3D%22btn-zoomin%22%3EA%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn-letter%22%20id%3D%22btn-zoomout%22%3EA%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22tcell%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-label%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%3EPage%20wide%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20id%3D%22value-width%22%20class%3D%22form-value%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20id%3D%22content-width%22%20class%3D%22form-value%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22btn-letter%20btn-content-width%22%20id%3D%22btn-content-zoomin%22%3E%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22btn-letter%20btn-content-width%22%20id%3D%22btn-content-zoomout%22%3E%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22tcell%22%20id%3D%22themes%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-label%22%3ETheme%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn-theme%20btn-theme-default%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn-theme%20btn-theme-yellow%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn-theme%20btn-theme-gray%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn-theme%20btn-theme-black%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22tcell%22%20id%3D%22themes-auto%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-label%22%3EAuto%20Theme%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20id%3D%22switch-theme%22%20class%3D%22switch%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22slider%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22tcell%22%20id%3D%22themes-day%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-label%22%3EDay%20Theme%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn-theme%20btn-theme-default%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn-theme%20btn-theme-yellow%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22tcell%22%20id%3D%22themes-night%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-label%22%3ENight%20Theme%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn-theme%20btn-theme-gray%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn-theme%20btn-theme-black%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22tcell%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-label%22%3EBackground%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20id%3D%22switch-background%22%20class%3D%22switch%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22slider%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22tcell%20flex-start%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-label%22%3EFonts%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20id%3D%22font-select-style%22%20class%3D%22form-group%22%3E%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22tcell%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-label%22%3ECode%20Highlight%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20id%3D%22switch-syntax%22%20class%3D%22switch%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22slider%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22tcell%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-label%22%3EOutline%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20id%3D%22switch-outline%22%20class%3D%22switch%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22slider%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22tcell%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-label%22%3EOpen%20Link%20in%20New%20Window%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20id%3D%22switch-linkopennew%22%20class%3D%22switch%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22slider%22%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%20%20%20%3C/div%3E%0A%20%20%20%20%20%20%3C/div%3E%0A%0A%0A%20%20%20%20%3C%21--div%20class%3D%22menu%22%20id%3D%22menu-translate%22%20menu-tooltip%3D%22TRANSLATE%22%3E%0A%20%20%20%20%20%20%20%20%3Cspan%3E%3Ci%20class%3D%22material-icons%22%20id%3D%22menu-translate-icon%22%3Etranslate%3C/i%3E%3C/span%3E%0A%20%20%20%20%3C/div--%3E%0A%0A%20%20%20%20%3C%21--%20%3Cdiv%20class%3D%22menu%22%20id%3D%22menu-speak%22%20menu-tooltip%3D%22AUDIO%22%3E%0A%20%20%20%20%20%20%20%20%3Cspan%3E%3Ci%20class%3D%22material-icons%22%20id%3D%22menu-speak-icon%22%3Evolume_down%3C/i%3E%3C/span%3E%20--%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3C%21--%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn%22%20id%3D%22btn-speak-pause%22%20style%3D%22display%3Anone%22%3E%3Ci%20class%3D%22fa%20fa-pause%22%3E%3C/i%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn%22%20id%3D%22btn-speak-resume%22%20style%3D%22display%3Anone%22%3E%3Ci%20class%3D%22fa%20fa-play%22%3E%3C/i%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Cspan%20class%3D%22btn%22%20id%3D%22btn-speak-stop%22%20style%3D%22display%3Anone%22%3E%3Ci%20class%3D%22fa%20fa-stop%22%3E%3C/i%3E%3C/span%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20--%3E%0A%20%20%20%20%3C%21--%20%3C/div%3E%20--%3E%0A%3C/div%3E%0A%3Cscript%20src%3D%22chrome-extension%3A//odfonlkabodgbolnmmkdijkaeggofoop/pages/content/jquery.min-v3.3.1.js%22%20type%3D%22text/javascript%22%3E%3C/script%3E%0A%3Cscript%20src%3D%22chrome-extension%3A//odfonlkabodgbolnmmkdijkaeggofoop/pages/content/purify.min-v2.0.js%22%20type%3D%22text/javascript%22%3E%3C/script%3E%0A%3Cscript%20src%3D%22chrome-extension%3A//odfonlkabodgbolnmmkdijkaeggofoop/pages/content/turndown.js%22%20type%3D%22text/javascript%22%3E%3C/script%3E%0A%3Cscript%20src%3D%22chrome-extension%3A//odfonlkabodgbolnmmkdijkaeggofoop/pages/content/highlight.min.js%22%20type%3D%22text/javascript%22%3E%3C/script%3E%0A%3C%21--%20%3Cscript%20src%3D%22chrome-extension%3A//odfonlkabodgbolnmmkdijkaeggofoop/pages/content/mark.min.js%22%20type%3D%22text/javascript%22%3E%3C/script%3E%20--%3E%0A%3C%21--%20%3Cscript%20src%3D%22chrome-extension%3A//odfonlkabodgbolnmmkdijkaeggofoop/pages/content/html2canvas.js%22%20type%3D%22text/javascript%22%3E%3C/script%3E%20--%3E%0A%3C%21--%20%3Cscript%20src%3D%22chrome-extension%3A//odfonlkabodgbolnmmkdijkaeggofoop/pages/content/jspdf.umd.min.js%22%20type%3D%22text/javascript%22%3E%3C/script%3E%20--%3E%0A%3Cscript%20src%3D%22chrome-extension%3A//odfonlkabodgbolnmmkdijkaeggofoop/pages/content/app.js%22%20type%3D%22text/javascript%22%3E%3C/script%3E%0A%3C/body%3E%0A%3C/html%3E%0A"
+        id="clearly-container" referrerpolicy="origin-when-cross-origin" style="display: none;"></iframe>
+    <style>
+        .clearly-overflow {
+            overflow: hidden !important;
+        }
+        
+        .clearly-enabled {
+            overflow: hidden !important;
+        }
+        
+        iframe#clearly-container {
+            position: fixed !important;
+            top: 0;
+            right: 0;
+            width: 100% !important;
+            height: 100% !important;
+            max-width: 100% !important;
+            max-height: 100% !important;
+            border: none;
+            overflow: auto;
+            display: none !important;
+            z-index: 2147483647;
+        }
+        
+        .clearly-enabled iframe#clearly-container {
+            display: block !important;
+        }
+    </style>
 </body>

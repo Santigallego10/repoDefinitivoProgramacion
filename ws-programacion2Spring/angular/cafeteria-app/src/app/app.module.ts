@@ -24,6 +24,7 @@ import { DetalleComponent } from './base_components/detalle/detalle.component';
 import { DetalleService } from './base_components/detalle/detalle.service';
 import { DetalleFormComponent } from './base_components/form_detalle/detalle-form.component';
 import { ConsultaFormComponent } from './base_components/form_consultas/consulta-form.component';
+import { FacturaViewComponent } from './base_components/facturaView/factura-view.component';
 
 
 
@@ -41,6 +42,7 @@ const routes: Routes=[
   {path:'productos',component:ProductoComponent},
   {path:'facturas',component:FacturaComponent},
   {path:'detalles',component:DetalleComponent},
+  {path:'facturaView/:id',component:FacturaViewComponent},
   {path:'formDetalle/:id',component:DetalleFormComponent},
   {path:'formCliente/:id',component:ClienteFormComponent},
   {path:'formEmpleado/:id',component:EmpleadoFormComponent},
@@ -67,7 +69,8 @@ const routes: Routes=[
     FacturaFormComponent,
     DetalleComponent,
     DetalleFormComponent,
-    ConsultaFormComponent
+    ConsultaFormComponent,
+    FacturaViewComponent
   ],
   imports: [
     BrowserModule,
